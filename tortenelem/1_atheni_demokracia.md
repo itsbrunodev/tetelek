@@ -1,12 +1,31 @@
 # Az athéni demokrácia intézményei, működése. A görög és római építészet.
 
+## Tartalomjegyzék
+- [Az athéni demokrácia intézményei, működése. A görög és római építészet.](#az-athéni-demokrácia-intézményei-működése-a-görög-és-római-építészet)
+  - [Tartalomjegyzék](#tartalomjegyzék)
+  - [Az athéni demokrácia](#az-athéni-demokrácia)
+    - [Alapelvek](#alapelvek)
+    - [Intézmények](#intézmények)
+    - [Fontos személyek](#fontos-személyek)
+    - [Szóloni alkotmány](#szóloni-alkotmány)
+  - [A görög és római építészet](#a-görög-és-római-építészet)
+    - [Görög építészet](#görög-építészet)
+      - [Templomok](#templomok)
+      - [Oszloprendek](#oszloprendek)
+      - [Anyaghasználat](#anyaghasználat)
+      - [Más típusú épületek](#más-típusú-épületek)
+    - [Római építészet](#római-építészet)
+      - [Anyaghasználat](#anyaghasználat-1)
+      - [Közmű- és középületek](#közmű--és-középületek)
+      - [De architectura](#de-architectura)
+
 ## Az athéni demokrácia
 
-### Alapelvek (2)
+### Alapelvek
   - [közvetlen demokrácia](https://hu.wikipedia.org/wiki/K%C3%B6zvetlen_demokr%C3%A1cia): minden athéni polgár közvetlenül vehetett részt a törvényhozásban és a városállam ügyeinek intézésében
   - jogosultak köre: csak a szabad, felnőtt, férfi polgárok szavazhattak, a nőket, rabszolgákat és [metoikoszokat](https://hu.wikipedia.org/wiki/Metoikosz#:~:text=A%20metoikosz%20(%E2%80%9Eegy%C3%BCttlak%C3%B3%E2%80%9D)%20az%20%C3%B3kori%20Ath%C3%A9nban%20gener%C3%A1ci%C3%B3k%20%C3%B3ta%20ott%20%C3%A9l%C5%91,%20betelep%C3%BClt%20idegen%20(de%20g%C3%B6r%C3%B6g)%20vagy%20felszabad%C3%ADtott%20rabszolga%20sz%C3%A1rmaz%C3%A1s%C3%BA%20egy%C3%A9n%20volt "A metoikosz („együttlakó”) az ókori Athénban generációk óta ott élő, betelepült idegen (de görög) vagy felszabadított rabszolga származású egyén volt") kizárták
   
-### Intézmények (6)
+### Intézmények
   - [Ekklészia](https://hu.wikipedia.org/wiki/Ekkl%C3%A9szia) (népgyűlés)
     - a [polisz](https://hu.wikipedia.org/wiki/Polisz#:~:text=%C3%B3kori%20g%C3%B6r%C3%B6g%20v%C3%A1ros%20vagy%20v%C3%A1ros%C3%A1llam "ókori görög város vagy városállam") legfontosabb szerve, a minden szabad polgárból álló népgyűlés
     - eleinte havonta egyszer gyűlt össze, később azonban már havonta 3-4 alkalommal a Pnüksz dombon
@@ -27,7 +46,7 @@
     - Árész hadistennek szentelt domb északi lábánál ülésezett az i. e. 5. századtól az eredetileg nemzetségfőkből, később volt arkhónokból álló törvényhozó és ítélő tanács
     - fő feladata a törvényesség ellenőrzése, és a tisztségviselők felügyelése
 
-### Fontos személyek (2)
+### Fontos személyek
   - [Szolón](https://hu.wikipedia.org/wiki/Szol%C3%B3n)
     - ókori athéni politikus, hadvezér, költő, a hét görög bölcs egyike volt
     - ő alkotta meg i. e. 594-ben bevezetett ún. szolóni alkotmányt
@@ -35,7 +54,7 @@
     - arisztokrata származású athéni politikus
     - reformjai teremtették meg az athéni demokrácia alapjait (az imént felsorolt intézmények mind az ő reformjai közül kerültek ki)
   
-### [Szóloni alkotmány](https://hu.wikipedia.org/wiki/Szol%C3%B3ni_alkotm%C3%A1ny) (5)
+### [Szóloni alkotmány](https://hu.wikipedia.org/wiki/Szol%C3%B3ni_alkotm%C3%A1ny)
   - i. e. 594-ben került bevezetésre
   - adósrabszolgaság eltörlése
   - jövedelem alapján történő besorolás ([timokrácia](https://hu.wikipedia.org/wiki/Timokr%C3%A1cia#:~:text=az%20emberek%20az%20%C3%A1ltaluk%20birtokolt%20anyagi%20javak%20ar%C3%A1ny%C3%A1ban%20r%C3%A9szes%C3%BClnek%20%C3%A1llampolg%C3%A1ri%20jogokban "az emberek az általuk birtokolt anyagi javak arányában részesülnek állampolgári jogokban"))
@@ -44,7 +63,7 @@
       - ez a szerv vált a legfontosabbá, mert itt bárki felszólalhatott
     - létrehozta a Bulét
 
-## A görög és római epítészet
+## A görög és római építészet
 
 ### Görög építészet
 
@@ -88,7 +107,7 @@
     
     ![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Palestra%2C_Pompeii.jpg/500px-Palestra%2C_Pompeii.jpg)
 
-### Római epítészet
+### Római építészet
   
 #### Anyaghasználat
   - Rendkívül erős építészeti anyagokat használtak
