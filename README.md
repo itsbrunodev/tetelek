@@ -9,7 +9,7 @@
   4. [A középkori uradalom jellemző vonásai (pl. vár, majorság, jobbágytelek). A mezőgazdasági technika fejlődésének néhány jellemző mozzanata a X-XI. században.](./tortenelem/4_kozepkori_uradalom.md)
   5. [Egy középkori város jellemzőinek bemutatása. A középkori kereskedelem sajátosságai.](./tortenelem/5_kozepkori_varos.md)
   6. [Az egyház szerepe a középkori művelődésben, az egyházi hierarchia és a szerzetesség Európában és az Árpád-kori Magyarországon.](./tortenelem/6_egyhaz_szerepe.md)
-  7. A romantika és a gótika főbb stílusjegye. A humanizmus és a reneszánsz főbb jellemzői.
+  7. [A romantika és a gótika főbb stílusjegye. A humanizmus és a reneszánsz főbb jellemzői.](./tortenelem/7_romantika_gotika.md)
 
 ### III. A középkori magyar állam megteremtése és virágkora
   8. A okai és menete, a kalandozások. A honfoglaló ma honfoglalás gyarság társadalma és életmódja.
