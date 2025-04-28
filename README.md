@@ -6,7 +6,7 @@
   3. [Mohamed tanításai és a Korán, az arab hódítás és feltartóztatása Európában.](./tortenelem/3_mohamed_tanitasai.md)
 
 ### II. A középkor
-  4. A középkori uradalom jellemző vonásai (pl. vár, majorság, jobbágytelek). A mezőgazdasági technika fejlődésének néhány jellemző mozzanata a X-XI. században.
+  4. [A középkori uradalom jellemző vonásai (pl. vár, majorság, jobbágytelek). A mezőgazdasági technika fejlődésének néhány jellemző mozzanata a X-XI. században.](./tortenelem/4_kozepkori_uradalom.md)
   5. Egy középkori város jellemzőinek bemutatása. A középkori kereskedelem sajátosságai.
   6. ?
   7. ?
