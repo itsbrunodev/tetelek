@@ -3,6 +3,26 @@
 ## Tartalomjegyzék
 - [Az egyház szerepe a középkori művelődésben, az egyházi hierarchia és a szerzetesség Európában és az Árpád-kori Magyarországon.](#az-egyház-szerepe-a-középkori-művelődésben-az-egyházi-hierarchia-és-a-szerzetesség-európában-és-az-árpád-kori-magyarországon)
   - [Tartalomjegyzék](#tartalomjegyzék)
+  - [Az egyház központi szerepe a középkori művelődésben](#az-egyház-központi-szerepe-a-középkori-művelődésben)
+    - [A tudás és a kultúra](#a-tudás-és-a-kultúra)
+    - [Az oktatás monopóliuma](#az-oktatás-monopóliuma)
+    - [A művészetek mecénása és ihletője](#a-művészetek-mecénása-és-ihletője)
+    - [A társadalmi élet szervezője és erkölcsi irányadója](#a-társadalmi-élet-szervezője-és-erkölcsi-irányadója)
+  - [Az egyházi hierarchia Európában](#az-egyházi-hierarchia-európában)
+    - [Pápaság](#pápaság)
+    - [Érsekségek és püspökségek](#érsekségek-és-püspökségek)
+    - [Plébániák](#plébániák)
+    - [Alsópapság (alszerpap)](#alsópapság-alszerpap)
+  - [A szerzetesség Európában](#a-szerzetesség-európában)
+    - [A szerzetesség kialakulása](#a-szerzetesség-kialakulása)
+    - [Benedekrend](#benedekrend)
+    - [Koldulórendek](#koldulórendek)
+  - [Az egyház szerepe, hierarchiája és a szerzetesség az Árpád-kori Magyarországon (10-13. század)](#az-egyház-szerepe-hierarchiája-és-a-szerzetesség-az-árpád-kori-magyarországon-10-13-század)
+    - [A kereszténység felvétele és az egyházszervezet kiépítése](#a-kereszténység-felvétele-és-az-egyházszervezet-kiépítése)
+    - [Az egyházi hierarchia](#az-egyházi-hierarchia)
+    - [A szerzetesség megjelenése és elterjedése](#a-szerzetesség-megjelenése-és-elterjedése)
+    - [Az egyház szerepe a művelődésben Magyarországon](#az-egyház-szerepe-a-művelődésben-magyarországon)
+
 
 ## Az egyház központi szerepe a középkori művelődésben
 
