@@ -7,7 +7,7 @@
 
 ### II. A középkor
   4. [A középkori uradalom jellemző vonásai (pl. vár, majorság, jobbágytelek). A mezőgazdasági technika fejlődésének néhány jellemző mozzanata a X-XI. században.](./tortenelem/4_kozepkori_uradalom.md)
-  5. Egy középkori város jellemzőinek bemutatása. A középkori kereskedelem sajátosságai.
+  5. [Egy középkori város jellemzőinek bemutatása. A középkori kereskedelem sajátosságai.](./tortenelem/5_kozepkori_varos.md)
   6. ?
   7. ?
 
