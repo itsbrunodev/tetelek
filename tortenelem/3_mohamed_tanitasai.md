@@ -21,17 +21,18 @@
 - nem ismerte a korábban [kinyilatkoztatott](https://hu.wikipedia.org/wiki/Kinyilatkoztat%C3%A1s#:~:text=a%20vall%C3%A1sokban%20a%20felt%C3%A1r%C3%A1sa,%20k%C3%B6zz%C3%A9t%C3%A9tele%20vagy%20nyilv%C3%A1noss%C3%A1gra%20hozatala%20valamilyen%20igazs%C3%A1gnak%20vagy%20tud%C3%A1snak "a vallásokban a feltárása, közzététele vagy nyilvánosságra hozatala valamilyen igazságnak vagy tudásnak") szent iratokat
 
 ### Élete
-   - született: 570, Mekka
-   - 610-ben megjelent neki Gábriel arkangyal és **ezzel kezdődött** meg a Korán kinyilatkoztatása, illetve **Mohamed prófétasága** (3 évig titokban, majd nyílvánosan hirdette az iszlám vallást)
-   - 622-ben az ellene tervezett merénylet elől Medinába vándorolt
-   - ottani törzsek támogatásával létrehozta az iszlám államot 
-   - ez a **hidzsra**, ami egyúttal muzulmán időszámítás kezdete is
-   - 630-ban kb. 10.000 fős sereg élén, harc nélkül vonult be Mekkába
-   - lerombolta a bálványokat és megtisztította a Kába szentélyét a politeizmustól (többistenhit)
-   - meghalt: 632, Medina
-   - haláláig egyesítette Arábiát
-   - halála után az iszlám államot a **kalifák** (helytartók) vezették
-   - iszlám elősegítette az arab térség egységesülését
+
+- született: 570, Mekka
+- 610-ben megjelent neki Gábriel arkangyal és **ezzel kezdődött** meg a Korán kinyilatkoztatása, illetve **Mohamed prófétasága** (3 évig titokban, majd nyílvánosan hirdette az iszlám vallást)
+- 622-ben az ellene tervezett merénylet elől Medinába vándorolt
+- ottani törzsek támogatásával létrehozta az iszlám államot 
+- ez a **hidzsra**, ami egyúttal muzulmán időszámítás kezdete is
+- 630-ban kb. 10.000 fős sereg élén, harc nélkül vonult be Mekkába
+- lerombolta a bálványokat és megtisztította a Kába szentélyét a politeizmustól (többistenhit)
+- meghalt: 632, Medina
+- haláláig egyesítette Arábiát
+- halála után az iszlám államot a **kalifák** (helytartók) vezették
+- iszlám elősegítette az arab térség egységesülését
 
 ## A Korán
 
