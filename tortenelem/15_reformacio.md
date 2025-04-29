@@ -1,6 +1,19 @@
 # A reformáció főbb irányzatai források alapján (lutheránus, kálvinista). A katolikus megújulás, az ellenreformáció kibontakozása. A barokk stílus jellemzői.
 
 ## Tartalomjegyzék
+- [A reformáció főbb irányzatai források alapján (lutheránus, kálvinista). A katolikus megújulás, az ellenreformáció kibontakozása. A barokk stílus jellemzői.](#a-reformáció-főbb-irányzatai-források-alapján-lutheránus-kálvinista-a-katolikus-megújulás-az-ellenreformáció-kibontakozása-a-barokk-stílus-jellemzői)
+  - [Tartalomjegyzék](#tartalomjegyzék)
+  - [A reformáció főbb irányzatai (16. század)](#a-reformáció-főbb-irányzatai-16-század)
+    - [Lutheránizmus (Ágostai Hitvallás)](#lutheránizmus-ágostai-hitvallás)
+    - [Kálvinizmus (Helvét Hitvallás, Institutes of the Christian Religion)](#kálvinizmus-helvét-hitvallás-institutes-of-the-christian-religion)
+  - [A katolikus megújulás (ellenreformáció) (16-17. század)](#a-katolikus-megújulás-ellenreformáció-16-17-század)
+  - [A barokk stílus jellemzői (17-18. század)](#a-barokk-stílus-jellemzői-17-18-század)
+    - [Jellemzői](#jellemzői)
+    - [Építészet](#építészet)
+    - [Festészet](#festészet)
+    - [Szobrászat](#szobrászat)
+    - [Irodalom](#irodalom)
+    - [Zene](#zene)
 
 ## A reformáció főbb irányzatai (16. század)
 
