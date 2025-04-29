@@ -25,7 +25,7 @@
 ### IV. Szellemi, társadalmi és politikai változások az újkorban
 
 14. [A nagy földrajzi felfedezések legfontosabb állomásai térkép alapján. A földrajzi felfedezések legfontosabb következményei. Az Európán kívüli civilizációk hatása Európára, és a gyarmatosítás.](./tortenelem/14_foldrajzi_felfedezesek.md)
-15. A reformáció főbb irányzatai források alapján (lutheránus, kálvinista). A katolikus megújulás, az ellenreformáció kibontakozása. A barokk stílus jellemzői.
+15. [A reformáció főbb irányzatai források alapján (lutheránus, kálvinista). A katolikus megújulás, az ellenreformáció kibontakozása. A barokk stílus jellemzői.](./tortenelem/15_reformacio.md)
 16. A brit alkotmányos monarchia működése és az amerikai köztársaság
 
 ### V. Magyarország a Habsburg Birodalomban  
