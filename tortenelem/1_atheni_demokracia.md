@@ -35,7 +35,7 @@
     - Szolón vezette be az i. e. 594-ben többi reformja között
     - tagjait sorsolással választották a 30 év feletti polgárok közül, 6000 főt sorsoltak ki, 12 fős testületekbe
   - [Bulé](https://hu.wikipedia.org/wiki/Bul%C3%A9)
-    -  500 tag -> 50 tag a 10 [phüléből](https://hu.wikipedia.org/wiki/Ph%C3%BCl%C3%A9#:~:text=g%C3%B6r%C3%B6g%20%22t%C3%B6rzs%22 "görög \"törzs\""), sorsolás alapján
+    -  500 tag $\rightarrow$ 50 tag a 10 [phüléből](https://hu.wikipedia.org/wiki/Ph%C3%BCl%C3%A9#:~:text=g%C3%B6r%C3%B6g%20%22t%C3%B6rzs%22 "görög \"törzs\""), sorsolás alapján
     - törvényjavaslatok előkészítése az ekklészia számára
   - [Stratégosz](https://zanza.tv/fogalom/sztrategosz)
     - hadvezér, a stratégia kidolgozója
