@@ -21,7 +21,6 @@
     - [Menete](#menete)
     - [Jellemző taktikák](#jellemző-taktikák)
 
-
 ## A honfoglalás okai (kb. 895/896)
 
 ### Külső kényszerítő tényezők
