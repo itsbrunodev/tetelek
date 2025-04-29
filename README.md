@@ -33,5 +33,5 @@
 17. [A mohácsi vész és az országrészekre szakadása. Végvári küzdelmek.](./tortenelem/17_mohacsi_vesz.md)
 18. [Erdély sajátos etnikai és vallási helyzete.](./tortenelem/18_erdely.md)
 19. [A Rákóczi szabadságharc fordulópontjai. A szatmári béke.](./tortenelem/19_rakoczi_szabadsagharc.md)
-20. Demográfiai változások, a nemzetiségi arányok alakulása
+20. [Demográfiai változások, a nemzetiségi arányok alakulása.](./tortenelem/20_demografia.md)
 21. Mária Terézia és II. József reformjai. 
