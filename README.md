@@ -31,7 +31,7 @@
 ### V. Magyarország a Habsburg Birodalomban  
 
 17. [A mohácsi vész és az országrészekre szakadása. Végvári küzdelmek.](./tortenelem/17_mohacsi_vesz.md)
-18. Erdély sajátos etnikai és vallási helyzete
+18. [Erdély sajátos etnikai és vallási helyzete.](./tortenelem/18_erdely.md)
 19. A Rákóczi szabadságharc fordulópontjai. A szatmári béke.
 20. Demográfiai változások, a nemzetiségi arányok alakulása
 21. Mária Terézia és II. József reformjai. 
