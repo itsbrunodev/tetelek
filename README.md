@@ -16,7 +16,7 @@
   9. [Géza fejedelemsége és Szent István államszervező tevékenysége.](./tortenelem/9_geza_fejedelemsege.md)
   10. [Az Aranybulla. A tatárjárás és az ország újjáépítése IV. Béla idején.](./tortenelem/10_aranybulla.md)
   11. [I. Anjou Károly gazdasági reformjai. A magyar városfejlődés korai szakasza.](./tortenelem/11_anjou_karoly.md)
-  12. Luxemburgi Zsigmond, Hunyadi János harcai a török ellen
+  12. [Luxemburgi Zsigmond, Hunyadi János harcai a török ellen.](./tortenelem/12_luxemburgi_zsigmond.md)
   13. Mátyás király uralkodói portréja intézkedései alapján.
 
 ### IV. Szellemi, társadalmi és politikai változások az újkorban
