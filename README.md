@@ -2,6 +2,8 @@
 
 Alább megtalálod a kisérettségi tételek listáját, kattints valamelyikre a tartalom megnyitásához. Egyes tételek szürkék ami azt jelenti hogy nem dolgoztam még ki őket.
 
+> A dőlt betűvel írt szöveg azt jelenti, hogy szerintem nem tanultuk és igazából jelentéktelen a felelet számára.
+
 ## Történelem
 
 ### I. Az ókor
