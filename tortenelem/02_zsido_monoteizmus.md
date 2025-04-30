@@ -3,67 +3,202 @@
 ## Tartalomjegyzék
 - [A zsidó monoteizmus, a kereszténység kialakulása, tanai, elterjedése, főbb tanításai.](#a-zsidó-monoteizmus-a-kereszténység-kialakulása-tanai-elterjedése-főbb-tanításai)
   - [Tartalomjegyzék](#tartalomjegyzék)
-    - [Zsidó monoteizmus kialakulása](#zsidó-monoteizmus-kialakulása)
-      - [Előzmények](#előzmények)
-      - [Tóra](#tóra)
-      - [Babiloni fogság](#babiloni-fogság)
-    - [Kereszténység kialakulása](#kereszténység-kialakulása)
-      - [Jézus élete és tanításai](#jézus-élete-és-tanításai)
-      - [Apostoli mozgalom](#apostoli-mozgalom)
-      - [A keresztény tanok főbb elemei](#a-keresztény-tanok-főbb-elemei)
-        - [Szentháromság](#szentháromság)
-        - [Megváltás](#megváltás)
-        - [Szentségek](#szentségek)
-      - [A kereszténység elterjedése](#a-kereszténység-elterjedése)
-        - [Korai keresztényüldözések](#korai-keresztényüldözések)
-        - [Konstantin és a fordulat](#konstantin-és-a-fordulat)
-      - [Államvallássá válás](#államvallássá-válás)
+  - [Zsidó monoteizmus kialakulása](#zsidó-monoteizmus-kialakulása)
+    - [Ószövetségi idők](#ószövetségi-idők)
+      - [Ábrahám](#ábrahám)
+      - [Mózes](#mózes)
+      - [Izrael királysága](#izrael-királysága)
+      - [Babiloni fogság (Kr. e. 586-539)](#babiloni-fogság-kr-e-586-539)
+      - [Második Templom korszaka (Kr. e. 539-Kr. u. 70)](#második-templom-korszaka-kr-e-539-kr-u-70)
+  - [A kereszténység kialakulása](#a-kereszténység-kialakulása)
+    - [Jézus Krisztus (Kr. e. 4 körül - Kr. u. 30/33 körül)](#jézus-krisztus-kr-e-4-körül---kr-u-3033-körül)
+      - [Élete](#élete)
+      - [Az első keresztény közösségek](#az-első-keresztény-közösségek)
+    - [Pál apostol (Saul eredetileg, Kr. u. 5/10 körül - 67 körül)](#pál-apostol-saul-eredetileg-kr-u-510-körül---67-körül)
+      - [Élete](#élete-1)
+  - [A kereszténység tanai](#a-kereszténység-tanai)
+    - [Monoteizmus](#monoteizmus)
+    - [Szentháromság](#szentháromság)
+    - [Jézus Krisztus](#jézus-krisztus)
+    - [Bűn és megváltás](#bűn-és-megváltás)
+    - [Szentlélek](#szentlélek)
+    - [Szentírás](#szentírás)
+    - [Egyház](#egyház)
+    - [Szentségek (fő irányzatok szerint eltérő számban és értelmezésben)](#szentségek-fő-irányzatok-szerint-eltérő-számban-és-értelmezésben)
+    - [Eszkatológia (végső dolgok)](#eszkatológia-végső-dolgok)
+  - [A kereszténység elterjedése](#a-kereszténység-elterjedése)
+    - [Korai terjedés (1-4. század)](#korai-terjedés-1-4-század)
+    - [A Római Birodalom államvallása (4. század)](#a-római-birodalom-államvallása-4-század)
+    - [Terjedés a középkorban (5-15. század)](#terjedés-a-középkorban-5-15-század)
+    - [Újkor és jelenkor (16. századtól)](#újkor-és-jelenkor-16-századtól)
 
-### Zsidó monoteizmus kialakulása
+## Zsidó monoteizmus kialakulása
 
-#### Előzmények
-  - Ábrahám elhagyja Ur városát, hogy Isten egyetlen akaratát kövesse, és szövetséget köt vele
-  - Mózes a Sínai-hegyen kapott Tízparancsolattal rögzíti az egy Istenbe vetett hit alapelveit
+### Ószövetségi idők
 
-#### [Tóra](https://hu.wikipedia.org/wiki/T%C3%B3ra)
-  - más néven a Mózesi könyvek *vagy Pentateuchus a Biblia ótestamentumi* részének első öt könyve
+#### Ábrahám
 
-#### [Babiloni fogság](https://hu.wikipedia.org/wiki/Babiloni_fogs%C3%A1g)
-  - Júdai Királyságból [Nabukodonozor](https://hu.wikipedia.org/wiki/II._Nab%C3%BA-kudurri-uszur) (II. Nabú-kudurri-uszur) a zsidókat Babilonba hurcoltatta
-  - i. e. 597-es elhurcoltatással kezdődött
-  - a királyi udvart, más előkelőket, mesterembereket és Júdea lakosságának jelentős részét, mintegy 7-10 ezer embert deportáltak Mezopotámiába
-  - 10 évvel később, Jeruzsálem i. e. 587-ben történt eleste és a [Salamon temploma](https://hu.wikipedia.org/wiki/Salamon_temploma) lerombolása után folytatódott
+- Kr. e. 2. évezred eleje (körülbelül).
+- Mezopotámiából Kánaánba vándorol.
+- **Szövetség Istennel**: egyetlen Isten elismerése, utódainak ígéret a földre.
+- A monoteizmus csírái.
 
-### Kereszténység kialakulása
+#### Mózes
 
-#### Jézus élete és tanításai
-  - Betlehemben született, Nazarethben nevelkedett, fő üzenete az Isten országának eljöveteléről, a szeretet és a megbocsátás fontosságáról szólt
+- Kr. e. 13. század (körülbelül).
+- Izraeliták kivezetése az egyiptomi rabszolgaságból (Exodus).
+- Sínai-hegyen a Tízparancsolat átadása Istentől.
+- **A monoteizmus megszilárdulása**: [Jahve](# "egy ősi, levantei eredetű istenség volt") az egyetlen Isten.
+- Törvények és rituálék kialakulása ([Tóra](# "a Biblia ótestamentumi részének első öt könyve")).
 
-#### Apostoli mozgalom
-  - Az apostolok (elsősorban Péter és Pál) hirdetik a feltámadt Krisztus [evangéliumát](https://hu.wikipedia.org/wiki/Evang%C3%A9lium#:~:text=eredetileg%20a%20kereszt%C3%A9ny%20%C3%BCzenetet%20jelentette "keresztény üzenet"), Pál levelei formálják a pogány közösségek felé nyitó teológiát
+#### Izrael királysága
 
-#### A keresztény tanok főbb elemei
+- Kr. e. 11-6. század.
+- Dávid és Salamon királyok uralma.
+- Jeruzsálem központtá válása, a Templom építése (Salamon).
+- **Próféták megjelenése**: Ézsaiás, Jeremiás, Ezékiel stb.
+- **A monoteizmus etikai és társadalmi vonatkozásainak hangsúlyozása**: igazságosság, könyörület.
 
-##### Szentháromság
-  - Az Első nikaiai zsinat (325) deklarálja az Atya, a Fiú és a Szentlélek egy Istenben való egységét
-##### Megváltás
-  - Jézus kereszthalála és feltámadása által váltja meg az emberiséget a bűntől, ígéretet adva az örök életre
-##### Szentségek
-  - A katolikus hagyomány hét szentséget különböztet meg
-    1. **Keresztség**: víz általi rituális megtisztulás
-    2. **Bérmálás**: kézrátétel vagy felkenés útján közvetítik a Szentlélek ajándékait a bérmálkozó számára
-    3. **Eucharisztia**: Jézusnak a kenyérről és borról az utolsó vacsorán mondott szavait és ottani cselekedeteit ismétlik meg liturgikus módon
-    4. Bűnbocsánat
-    5. Betegek kenete
-    6. Egyházi rend
-    7. Házasság
+#### Babiloni fogság (Kr. e. 586-539)
 
-#### A kereszténység elterjedése
+- A Templom lerombolása, a zsidó elit deportálása.
+- A monoteista hit megőrzése a diaszpórában.
+- A Szentírás (Ószövetség) gyűjtésének kezdete.
 
-##### Korai [keresztényüldözések](https://hu.wikipedia.org/wiki/Kereszt%C3%A9ny%C3%BCld%C3%B6z%C3%A9s)
-  - A római birodalomban a 1-3. században többszörös helyi és birodalmi szintű üldözések ellenére is nő a keresztény közösségek száma
-##### [Konstantin](https://hu.wikipedia.org/wiki/I._Constantinus_r%C3%B3mai_cs%C3%A1sz%C3%A1r) és a fordulat
-  - 313-ban a [Mediolanumi ediktum](https://hu.wikipedia.org/wiki/Mediolanumi_ediktum#:~:text=A%20mediolanumi%20ediktum%2C%20melyet%20I,sz%C3%A1m%C3%A1ra%20is%20a%20szabad%20vall%C3%A1sgyakorl%C3%A1st.&text=313.,j%C3%BAnius%2013.) vallásszabadságot biztosít, 324 után Konstantin államszintű támogatást nyújt a kereszténységnek
-  
-#### Államvallássá válás
-  - A 4. század végére (Theodosius által 380-ban) a kereszténység hivatalos egyházi és államvallássá emelkedik
+#### Második Templom korszaka (Kr. e. 539-Kr. u. 70)
+
+- Visszatérés Babilonból, a Templom újjáépítése.
+- A papság és a Tóra központi szerepe.
+- Különböző zsidó irányzatok megjelenése ([farizeusok](# "ókori, szigorú vallási elveket valló zsidó párt"), *szadduceusok*, *esszénusok*).
+- A messiásvárás erősödése.
+
+## A kereszténység kialakulása
+
+### Jézus Krisztus (Kr. e. 4 körül - Kr. u. 30/33 körül)
+
+#### Élete
+
+- Születés Betlehemben, nevelkedés Galileában (Názáret).
+- Keresztelő János megkereszteli a Jordán folyóban.
+- **Nyilvános működés Galileában és Júdeában**: tanítások, csodák (betegek gyógyítása, halottak feltámasztása stb.).
+- 12 apostol kiválasztása.
+- **Tanításainak központi elemei**: Isten országa, szeretet (Isten és a felebarát szeretete), bűnbánat, hit.
+- Konfliktus a korabeli zsidó vallási vezetőkkel.
+- Letartóztatás Jeruzsálemben, Poncius Pilátus római helytartó elé állítás.
+- Keresztre feszítés Jeruzsálemben.
+- Feltámadás a harmadik napon (a keresztény hit központi dogmája).
+- Mennybemenetel.
+
+#### Az első keresztény közösségek
+
+- **Jeruzsálem**: az apostolok vezetésével.
+- Péter apostol szerepe.
+- **Pünkösd**: a Szentlélek eljövetele, az egyház születésnapja.
+- A tanítványok prédikációi Jézus feltámadásáról.
+- Az első megtértek zsidók voltak.
+
+### Pál apostol (Saul eredetileg, Kr. u. 5/10 körül - 67 körül)
+
+#### Élete
+
+- Zsidó származású, farizeus, a keresztényüldözők élén állt.
+- Damaszkusz felé megtérése (jelenés Krisztustól).
+- **A pogányok apostola**: missziós utazások a Római Birodalom területén (Kis-Ázsia, Görögország, Róma).
+- Számos levél írása a korai keresztény közösségeknek (Újszövetség része).
+- Fontos szerepe a keresztény tanítások kidolgozásában és a kereszténység elterjesztésében.
+- Rómában végezték ki.
+
+## A kereszténység tanai
+
+### Monoteizmus
+
+- Egyetlen Isten létezik, aki teremtette a világot.
+
+### Szentháromság
+
+- Egy Isten három személyben:
+  - Atya (teremtő)
+  - Fiú (Jézus Krisztus, megváltó)
+  - Szentlélek (istentől származó erő, vigasztaló).
+  - Ez a zsidó monoteizmustól való egyik legfontosabb eltérés.
+
+### Jézus Krisztus 
+
+- Isten Fia, aki emberré lett (inkarnáció).
+- **Megváltó**: halálával és feltámadásával megváltotta az emberiséget a bűntől és a haláltól.
+- Úr és Messiás.
+
+### Bűn és megváltás
+
+- Ősbűn (Ádám és Éva engedetlensége).
+- Az emberiség bűnös természete.
+- Jézus áldozata a bűnökért való engesztelés.
+- A megváltás Jézus Krisztusba vetett hit által lehetséges (kegyelem).
+
+### Szentlélek
+
+- Isten harmadik személye.
+- A hívőkben lakozik, erőt és vezetést ad.
+- Az egyház éltetője.
+
+### Szentírás
+
+- **Ószövetség (a zsidó Biblia)**: Isten szövetsége Izraellel, próféciák a Messiásról.
+- **Újszövetség**: Jézus élete, tanításai, az apostolok cselekedetei és levelei.
+- A Biblia Istentől ihletett Szent Könyv.
+
+### Egyház
+
+- Krisztus teste, a hívők közössége.
+- A hit terjesztésének és a szentségek kiszolgáltatásának eszköze.
+
+### Szentségek (fő irányzatok szerint eltérő számban és értelmezésben)
+
+- **Keresztség**: a keresztény közösségbe való befogadás, a bűnök bocsánata.
+- **Úrvacsora (eucharisztia)**: Jézus utolsó vacsorájának emlékezete, Krisztus testének és vérének vétele (*különböző teológiai értelmezések*).
+- **Bérmálás/Konfirmáció**: a Szentlélek különleges ajándékainak vétele.
+- **Bűnbánat/Gyónás**: a bűnök megvallása és Isten bocsánatának elnyerése.
+- Házasság.
+- Papi rend.
+- Betegek kenete.
+
+### Eszkatológia (végső dolgok)
+
+- Krisztus második eljövetele.
+- A halottak feltámadása.
+- Utolsó ítélet.
+- Örök élet a hívőknek, örök kárhozat a hitetleneknek.
+
+## A kereszténység elterjedése
+
+### Korai terjedés (1-4. század)
+
+- **Apostolok és tanítványok missziós tevékenysége** a Római Birodalomban.
+- **Pál apostol missziós útjai** kulcsfontosságúak a pogányok közötti terjedésben.
+- **Városi központokban** alakulnak ki keresztény közösségek.
+- **Ellenállás és üldöztetés** a római hatóságok részéről (Néró, Diocletianus stb.).
+- A **keresztények kitartása** és a **hit ereje** hozzájárul a terjedéshez.
+
+### A Római Birodalom államvallása (4. század)
+
+- **Constantinus császár megtérése** (313-as milánói ediktum: vallásszabadság).
+- **Theodosius császár** a kereszténységet **államvallássá** nyilvánítja (380).
+- A pogány kultuszok háttérbe szorulása.
+- Az egyház intézményesülésének kezdete.
+
+### Terjedés a középkorban (5-15. század)
+
+- **Misszionáriusok tevékenysége** Európában (pl. Szent Benedek, Szent Cirill és Metód).
+- Germán törzsek **megtérítése**.
+- A kereszténység **behatolása a keleti területekre** is.
+- Az egyház politikai és kulturális befolyásának növekedése.
+- A **nagy egyházszakadás** (1054): római katolikus és ortodox egyházra válás.
+- **Keresztes hadjáratok** (vallási és politikai motivációk).
+
+### Újkor és jelenkor (16. századtól)
+
+- **Reformáció (Luther, Kálvin, Zwingli)**: új protestáns felekezetek kialakulása.
+- Katolikus **megújulás** (ellenreformáció).
+- **Európán kívüli területekre** való terjedés a **gyarmatosítás** révén.
+- **Missziós társaságok** tevékenysége.
+- A kereszténység **globális vallássá** válik, *de a szekularizáció kihívásaival is szembenéz*.
