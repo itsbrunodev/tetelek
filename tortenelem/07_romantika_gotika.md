@@ -31,7 +31,7 @@
 
 ### Kialakulás
 
-- **Észak-Franciaország** (Saint-Denis apátság, Suger apát) $\rightarrow$ Európa többi része
+- **Észak-Franciaország** (Saint-Denis apátság, Suger apát) → Európa többi része
 - A **román stílusból** fejlődött ki.
 
 ### Építészet
@@ -39,14 +39,14 @@
 - **Fő cél**: Magasság elérése, fény beáramlása, Isten dicsőítése.
 - **Szerkezeti újítások**:
   - **Csúcsív**: A félkörív helyett, nagyobb magasság, karcsúbb támaszok. Függőleges hatás.
-  - **Bordás keresztboltozat**: A súlypontok koncentrálódnak $\rightarrow$ vékonyabb falak, nagyobb ablakok.
-  - **Támpillérek és támívek**: A falak oldalirányú nyomását veszik fel $\rightarrow$ még magasabb épületek.
+  - **Bordás keresztboltozat**: A súlypontok koncentrálódnak → vékonyabb falak, nagyobb ablakok.
+  - **Támpillérek és támívek**: A falak oldalirányú nyomását veszik fel → még magasabb épületek.
 - **Jellemző elemek**:
   - Magas, karcsú tornyok.
   - Lándzsaíves ablakok.
   - Rózsablakok (kör alakú, díszes ablakok).
   - Gazdag szobrászati díszítés (vízköpők stb.).
-  - Színes üvegablakok (bibliai történetek, szentek élete). $\rightarrow$ misztikus, átszűrődő fény.
+  - Színes üvegablakok (bibliai történetek, szentek élete). → misztikus, átszűrődő fény.
 - **Fontosabb épületek**:
   - Notre-Dame székesegyház (Párizs)
   - Chartres-i székesegyház

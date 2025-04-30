@@ -14,11 +14,11 @@
 
 ### Történelmi Gyökerek (Hosszú Fejlődés)
 
-- Kezdetek: Angolszász királyságok $\rightarrow$ Normann hódítás (1066) $\rightarrow$ Központi hatalom erősödése, de a nemesség jogainak megmaradása.
+- Kezdetek: Angolszász királyságok → Normann hódítás (1066) → Központi hatalom erősödése, de a nemesség jogainak megmaradása.
 - Magna Carta (1215): A király hatalmának korlátozása, jogok biztosítása a nemesség számára (később kiterjed). $\downarrow$ A törvény felettiségének elve csírázik.
-- Parlament kialakulása: Nemesség képviselői tanácskoznak a királlyal $\rightarrow$ Kétkamarás parlament (Lordok Háza és Közösségek Háza) fejlődése.
-- Hatalmi harcok a Stuart-dinasztia idején (XVII. század): A király abszolút hatalomra törekvése $\leftrightarrow$ Parlament ellenállása $\rightarrow$ Polgári Forradalom (1642-1651) $\rightarrow$ Köztársasági kísérlet (Commonwealth) $\rightarrow$ Restauráció (1660).
-- Dicsőséges Forradalom (1688): II. Jakab elűzése, Vilmos és Mária trónra kerülése a Parlament meghívására $\rightarrow$ Jogok Törvénye (Bill of Rights, 1689): A Parlament jogainak megerősítése, a királyi hatalom korlátozása (pl. adókivetés parlamenti jóváhagyással, szólásszabadság a Parlamentben). $\downarrow$ Az alkotmányos monarchia alapjainak lerakása.
+- Parlament kialakulása: Nemesség képviselői tanácskoznak a királlyal → Kétkamarás parlament (Lordok Háza és Közösségek Háza) fejlődése.
+- Hatalmi harcok a Stuart-dinasztia idején (XVII. század): A király abszolút hatalomra törekvése $\leftrightarrow$ Parlament ellenállása → Polgári Forradalom (1642-1651) → Köztársasági kísérlet (Commonwealth) → Restauráció (1660).
+- Dicsőséges Forradalom (1688): II. Jakab elűzése, Vilmos és Mária trónra kerülése a Parlament meghívására → Jogok Törvénye (Bill of Rights, 1689): A Parlament jogainak megerősítése, a királyi hatalom korlátozása (pl. adókivetés parlamenti jóváhagyással, szólásszabadság a Parlamentben). $\downarrow$ Az alkotmányos monarchia alapjainak lerakása.
 
 ### A Működés Alapelvei és Intézményei
 

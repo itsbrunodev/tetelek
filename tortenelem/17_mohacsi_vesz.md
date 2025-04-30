@@ -24,7 +24,7 @@
 
 ### A Jagelló-kor gyengeségei (II. Ulászló és II. Lajos uralkodása)
 
-- Központi hatalom meggyengülése $\rightarrow$ bárók megerősödése (oligarchia).
+- Központi hatalom meggyengülése → bárók megerősödése (oligarchia).
 - Gazdasági problémák: királyi birtokok eladományozása, kincstár kiürülése.
 - Nemesi elégedetlenség (jobbágyterhek növekedése, politikai befolyás hiánya).
 - Egyházi birtokok növekedése, egyházi adók terhei.
@@ -34,7 +34,7 @@
 ### Az Oszmán Birodalom fenyegetése
 
 - I. Szulejmán szultán terjeszkedő politikája a Balkánon.
-- Nándorfehérvár 1521-es eleste $\rightarrow$ Magyarország déli védővonalának megszűnése.
+- Nándorfehérvár 1521-es eleste → Magyarország déli védővonalának megszűnése.
 - Magyarország adófizetési kötelezettsége (portai adó).
 - Gyakori török betörések, pusztítások a déli területeken.
 
@@ -62,7 +62,7 @@
 - **A nemesség két pártra szakadt**:
   - Egyik része Szapolyai Jánost választotta királlyá (nemzeti király).
   - Másik része Habsburg Ferdinándot választotta királlyá (a Jagellók örököse).
-- Kettős királyválasztás $\rightarrow$ polgárháborús állapot.
+- Kettős királyválasztás → polgárháborús állapot.
   
 ### Habsburg Ferdinánd törekvései
 

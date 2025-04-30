@@ -39,15 +39,15 @@
 
 ### A demokrácia fogalma Athénban
 
-- Démosz (nép) + kratosz (uralom) $\rightarrow$ a nép uralma
+- Démosz (nép) + kratosz (uralom) → a nép uralma
 - **Közvetlen demokrácia**: a polgárok személyesen vesznek részt a döntéshozatalban.
 
 ### A társadalmi rétegződés Athénban és a politikai jogok alakulása
 
 - **Szabadok**:
-  - Polgárok (férfiak, szabad szülők, betöltött 20. év) $\rightarrow$ politikai jogok
-  - Metoikoszok (betelepültek) $\rightarrow$ korlátozott jogok, adófizetés, katonai szolgálat
-- **Rabszolgák** $\rightarrow$ semmilyen politikai joguk nem volt.
+  - Polgárok (férfiak, szabad szülők, betöltött 20. év) → politikai jogok
+  - Metoikoszok (betelepültek) → korlátozott jogok, adófizetés, katonai szolgálat
+- **Rabszolgák** → semmilyen politikai joguk nem volt.
 - A demokrácia kialakulása hosszú folyamat volt (Szolón, Kleiszthenész reformjai).
 
 #### A legfontosabb intézmények

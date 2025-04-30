@@ -71,7 +71,7 @@
 ### Nehézeke elterjedése
 
 - Könnyűekével szemben mélyebben szántott
-- Jobban megforgatta a földet $\rightarrow$ tápanyagban gazdagabb rétegek kerültek a felszínre
+- Jobban megforgatta a földet → tápanyagban gazdagabb rétegek kerültek a felszínre
 - Nagyobb terméshozam
 - Erősebb vonóerőre volt szükség (ökör, ló)
 
@@ -79,7 +79,7 @@
 
 - Felszántott föld egyengetése és a 
 - Rögök összetörése
-- Jobb talajszerkezetet biztosított $\rightarrow$ elősegítve a vetést és a csírázást
+- Jobb talajszerkezetet biztosított → elősegítve a vetést és a csírázást
 
 ### Háromnyomásos gazdálkodás
 

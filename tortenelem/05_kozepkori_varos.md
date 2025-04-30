@@ -50,7 +50,7 @@
 
 #### Védművek
 
-- Városfalak (kőből vagy fából, kapukkal, tornyokkal) $\rightarrow$ védelem a külső veszélyek ellen
+- Városfalak (kőből vagy fából, kapukkal, tornyokkal) → védelem a külső veszélyek ellen
 - Vizesárkok
 
 #### Sűrű beépítés
@@ -116,7 +116,7 @@
 ### A kereskedelem felélénkülése
 
 - A 10-11. századtól a mezőgazdasági **többlet termelés** lehetővé tette az **árucserét**
-- Népességnövekedés $\rightarrow$ **megnőtt a kereslet**
+- Népességnövekedés → **megnőtt a kereslet**
 - **Biztonságosabbá** váltak az **utazások** (a kalandozások megszűnése)
 
 ### A kereskedelem főbb irányai és termékei
