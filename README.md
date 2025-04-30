@@ -35,3 +35,21 @@
 19. [A Rákóczi szabadságharc fordulópontjai. A szatmári béke.](./tortenelem/19_rakoczi_szabadsagharc.md)
 20. [Demográfiai változások, a nemzetiségi arányok alakulása.](./tortenelem/20_demografia.md)
 21. [Mária Terézia és II. József reformjai.](./tortenelem/21_maria_terezia.md)
+
+## Irodalom
+
+1. [Petőfi Sándor (szerelmi)](./irodalom/01_petofi.md)
+2. Arany János (balladái)
+3. Ady Endre (szerelmi)
+4. Babits Mihály (Jónás könyve és imája)
+5. Kosztolányi Dezső (Édes Anna)
+6. Balassi Bálint (költészetének reneszánsz vonásai)
+7. Kölcsey Ferenc (múlt-jelen-jövő)
+8. Mikszáth Kálmán (parasztábrázolás)
+9. <s>Móricz Zsigmond (novellái)</s>
+10. A Biblia
+11. Az antik eposz
+12. A reneszánsz dráma jellegzetességei (Shakespeare: Rómeó és Júlia)
+13. Madách Imre: Az ember tragédiája
+14. Herczeg Ferenc
+15. Joker
