@@ -1,6 +1,6 @@
 # Tételek listája
 
-Alább megtalálod a kisérettségi tételek listáját, kattints valamelyikre a tartalom megnyitásához. Egyes tételek még csak szürkék ami azt jelenti hogy nem dolgoztam még ki őket.
+Alább megtalálod a kisérettségi tételek listáját, kattints valamelyikre a tartalom megnyitásához. Egyes tételek szürkék ami azt jelenti hogy nem dolgoztam még ki őket.
 
 ## Történelem
 
