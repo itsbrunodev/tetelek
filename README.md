@@ -1,3 +1,7 @@
+# Tételek listája
+
+Alább megtalálod a kisérettségi tételek listáját, kattints valamelyikre a tartalom megnyitásához. Egyes tételek még csak szürkék ami azt jelenti hogy nem dolgoztam még ki őket.
+
 ## Történelem
 
 ### I. Az ókor
@@ -38,7 +42,7 @@
 
 ## Irodalom
 
-1. [Petőfi Sándor (szerelmi)](./irodalom/01_petofi.md)
+1. Petőfi Sándor (szerelmi)
 2. Arany János (balladái)
 3. Ady Endre (szerelmi)
 4. Babits Mihály (Jónás könyve és imája)
