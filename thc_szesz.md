@@ -1,4 +1,4 @@
-# Mi az a THC, SZESZ?
+# Mi az a THC és SZESZ?
 
 ## THC
 

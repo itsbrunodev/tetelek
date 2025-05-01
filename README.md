@@ -6,6 +6,7 @@ Alább megtalálod a kisérettségi tételek listáját, kattints valamelyikre a
 
 - [Korszak idővonal](./korszak.md)
 - [Műnemek műfajai](./munem.md)
+- [THC és SZESZ](./thc_szesz.md)
 
 > A dőlt betűvel írt szöveg azt jelenti, hogy szerintem nem tanultuk és igazából jelentéktelen a felelet számára.
 
