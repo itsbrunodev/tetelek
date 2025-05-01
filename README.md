@@ -2,6 +2,11 @@
 
 Alább megtalálod a kisérettségi tételek listáját, kattints valamelyikre a tartalom megnyitásához. Egyes tételek szürkék ami azt jelenti hogy nem dolgoztam még ki őket.
 
+## Segítségek
+
+- [Korszak idővonal](./korszak.md)
+- [Műnemek műfajai](./munem.md)
+
 > A dőlt betűvel írt szöveg azt jelenti, hogy szerintem nem tanultuk és igazából jelentéktelen a felelet számára.
 
 ## Történelem
@@ -46,16 +51,16 @@ Alább megtalálod a kisérettségi tételek listáját, kattints valamelyikre a
 
 1. [Petőfi Sándor (szerelmi)](./irodalom/01_petofi.md)
 2. [Arany János (balladái)](./irodalom/02_arany.md)
-3. Ady Endre (szerelmi)
-4. Babits Mihály (Jónás könyve és imája)
-5. Kosztolányi Dezső (Édes Anna)
-6. Balassi Bálint (költészetének reneszánsz vonásai)
-7. Kölcsey Ferenc (múlt-jelen-jövő)
-8. Mikszáth Kálmán (parasztábrázolás)
-9. <s>Móricz Zsigmond (novellái)</s>
-10. A Biblia
-11. Az antik eposz
-12. A reneszánsz dráma jellegzetességei (Shakespeare: Rómeó és Júlia)
-13. Madách Imre: Az ember tragédiája
-14. Herczeg Ferenc
-15. Joker
+3. [Ady Endre (szerelmi)](./irodalom/03_ady.md)
+4. [Babits Mihály (Jónás könyve és imája)](./irodalom/04_babits.md)
+5. [Kosztolányi Dezső (Édes Anna)](./irodalom/05_kosztolanyi.md)
+6. [Balassi Bálint (költészetének reneszánsz vonásai)](./irodalom/06_balassi.md)
+7. [Kölcsey Ferenc (múlt-jelen-jövő)](./irodalom/07_kolcsey.md)
+8. [Mikszáth Kálmán (parasztábrázolás)](./irodalom/08_mikszath.md)
+9. [Móricz Zsigmond (novellái)](./irodalom/09_moricz.md)
+10. [A Biblia](./irodalom/10_biblia.md)
+11. [Az antik eposz](./irodalom/11_antik_eposz.md)
+12. [A reneszánsz dráma jellegzetességei (Shakespeare: Rómeó és Júlia)](./irodalom/12_reneszansz_drama.md)
+13. [Madách Imre: Az ember tragédiája](./irodalom/13_madach.md)
+14. [Herczeg Ferenc](./irodalom/14_herczeg.md)
+15. [Joker (Az orosz realista irodalom)](./irodalom/15_joker.md)

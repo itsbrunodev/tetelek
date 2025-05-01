@@ -7,7 +7,11 @@
   - [Szerelmi élete és költészetének kapcsolata](#szerelmi-élete-és-költészetének-kapcsolata)
   - [Két híres szerelmes vers elemzése](#két-híres-szerelmes-vers-elemzése)
     - [Szeptember végén](#szeptember-végén)
+      - [THC](#thc)
+      - [Szesz](#szesz)
     - [Minek nevezzelek](#minek-nevezzelek)
+      - [THC](#thc-1)
+      - [SZESZ](#szesz-1)
 
 ## Élete - rövid áttekintés
 
@@ -45,22 +49,28 @@
 
 ### Szeptember végén
 
-- **THC**:
-  - **Téma**: A nyár elmúlása, az ősz közeledte párhuzamba állítva a szerelem és a házasság mélyülésével, az idő múlásával szembeni állandósággal. A költő elmélkedik a múlandóságon, de felesége melletti boldogsága megnyugvást ad.
-  - **Helyszín és Idő**: Egy őszi táj, a természet átalakulásának időszaka. Az idő konkrétan szeptember vége.
-  - **Cím**: A cím közvetlenül utal a vers keletkezésének idejére és a természeti képre, amely szimbolikusan kapcsolódik a vers érzelmi tartalmához (elmúlás, de mégis szépség).
-- **Szesz**:
-  - **Szerkezet**: Lírai monológ. Két nagyobb egységre osztható: az első rész a táj leírása és a melankolikus hangulat, a második rész a feleséghez szóló személyes vallomás. Rímelése keresztrím (ABAB).
-  - **Elbeszélő**: Egyes szám első személyű lírai én, aki közvetlenül fejezi ki érzéseit és gondolatait.
-  - **Szereplők**: A lírai én és a megszólított (a feleség). A táj is fontos "szereplőként" van jelen a versben.
+#### THC
+
+- **Téma**: A nyár elmúlása, az ősz közeledte párhuzamba állítva a szerelem és a házasság mélyülésével, az idő múlásával szembeni állandósággal. A költő elmélkedik a múlandóságon, de felesége melletti boldogsága megnyugvást ad.
+- **Helyszín és Idő**: Egy őszi táj, a természet átalakulásának időszaka. Az idő konkrétan szeptember vége.
+- **Cím**: A cím közvetlenül utal a vers keletkezésének idejére és a természeti képre, amely szimbolikusan kapcsolódik a vers érzelmi tartalmához (elmúlás, de mégis szépség).
+  
+#### Szesz
+
+- **Szerkezet**: Lírai monológ. Két nagyobb egységre osztható: az első rész a táj leírása és a melankolikus hangulat, a második rész a feleséghez szóló személyes vallomás. Rímelése keresztrím (ABAB).
+- **Elbeszélő**: Egyes szám első személyű lírai én, aki közvetlenül fejezi ki érzéseit és gondolatait.
+- **Szereplők**: A lírai én és a megszólított (a feleség). A táj is fontos "szereplőként" van jelen a versben.
 
 ### Minek nevezzelek
 
-- **THC**:
-  - **Téma**: A költő szinte képtelen szavakba önteni felesége iránti mély és sokrétű szerelmét. A vers a megszólítások sokféleségén keresztül mutatja be a kapcsolat intimitását, a feleség különböző szerepeit a költő életében.
-  - **Helyszín és Idő**: Nincs konkrét helyszín és idő megjelölve, a hangsúly a belső érzelmeken van. A vers az örök jelenben létezik, a szerelem időtlenségét sugallja.
-  - **Cím**: A cím egy költői kérdés, amely a vers központi problémáját veti fel: hogyan lehet egyetlen szóval kifejezni a végtelenül gazdag érzelmeket? A cím felhívja a figyelmet a nyelv korlátaira a szerelem kifejezésében.
-- **Szesz**:
-  - **Szerkezet**: Lírai monológ, amelyben a költő egymást követő kérdések formájában keresi a megfelelő megszólítást feleségének. A vers rövid sorokból és egyszerű nyelvből épül fel, a rímelés változatos (párosrím, keresztrím).
-  - **Elbeszélő**: Egyes szám első személyű lírai én, aki közvetlenül a feleségéhez fordul.
-  - **Szereplők**: A lírai én és a megszólított (a feleség).
+#### THC
+
+- **Téma**: A költő szinte képtelen szavakba önteni felesége iránti mély és sokrétű szerelmét. A vers a megszólítások sokféleségén keresztül mutatja be a kapcsolat intimitását, a feleség különböző szerepeit a költő életében.
+- **Helyszín és Idő**: Nincs konkrét helyszín és idő megjelölve, a hangsúly a belső érzelmeken van. A vers az örök jelenben létezik, a szerelem időtlenségét sugallja.
+- **Cím**: A cím egy költői kérdés, amely a vers központi problémáját veti fel: hogyan lehet egyetlen szóval kifejezni a végtelenül gazdag érzelmeket? A cím felhívja a figyelmet a nyelv korlátaira a szerelem kifejezésében.
+
+#### SZESZ
+
+- **Szerkezet**: Lírai monológ, amelyben a költő egymást követő kérdések formájában keresi a megfelelő megszólítást feleségének. A vers rövid sorokból és egyszerű nyelvből épül fel, a rímelés változatos (párosrím, keresztrím).
+- **Elbeszélő**: Egyes szám első személyű lírai én, aki közvetlenül a feleségéhez fordul.
+- **Szereplők**: A lírai én és a megszólított (a feleség).
