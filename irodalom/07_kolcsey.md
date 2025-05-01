@@ -129,3 +129,6 @@
 - A magyar nyelv ápolásának és megújításának elkötelezett híve.
 - A reformkor szellemi irányítóinak egyike.
 - Művei ma is aktuális kérdéseket vetnek fel a nemzet sorsáról, az erkölcsi felelősségről.
+
+> Előző: [Balassi Bálint (költészetének reneszánsz vonásai)](./06_balassi.md)\
+> Következő: [Mikszáth Kálmán (parasztábrázolás)](./08_mikszath.md)

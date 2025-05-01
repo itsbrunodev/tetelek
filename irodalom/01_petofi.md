@@ -74,3 +74,5 @@
 - **Szerkezet**: Lírai monológ, amelyben a költő egymást követő kérdések formájában keresi a megfelelő megszólítást feleségének. A vers rövid sorokból és egyszerű nyelvből épül fel, a rímelés változatos (párosrím, keresztrím).
 - **Elbeszélő**: Egyes szám első személyű lírai én, aki közvetlenül a feleségéhez fordul.
 - **Szereplők**: A lírai én és a megszólított (a feleség).
+
+> Következő: [Arany János (balladái)](./02_arany.md)

@@ -83,3 +83,6 @@
 - Fiatal, nemesi származású lány, aki Ady felesége lett élete utolsó szakaszában.
 - Kapcsolatuk nyugodtabb, támogatóbb jellegű volt, bár nem mentes a nehézségektől.
 - A Csinszka-versek a megnyugvás, a háziasság, a halál közelségének elfogadása mellett a nő iránti mély ragaszkodást fejezik ki.
+
+> Előző: [Arany János (balladái)](./02_arany.md)\
+> Következő: [Babits Mihály (Jónás könyve és imája)](./04_babits.md)

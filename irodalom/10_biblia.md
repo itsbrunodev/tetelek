@@ -118,3 +118,5 @@
   - ***A tékozló fiú példázata (Lukács 15, 11-32)**: Isten megbocsátó szeretetét és az elveszett dolgok megtalálásának örömét szemlélteti.*
   - ***A jó szamaritánus példázata (Lukács 10, 25-37)**: A felebaráti szeretet és a segítségnyújtás fontosságát hangsúlyozza.*
 
+> Előző: [Móricz Zsigmond (novellái)](./09_moricz.md)\
+> Következő: [Az antik eposz](./11_antik_eposz.md)

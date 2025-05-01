@@ -129,3 +129,6 @@ Móricz Zsigmond novellái, mint a "Tragédia" és a "Barbárok" is jól példá
 - **A táj szerepe**: Mindkét novellában fontos a helyszín. A "Tragédia" falusi környezete a társadalmi hierarchia és a szegénység színtere, míg a "Barbárok" Hortobágyának rideg, elhagyatott pusztája a barbárság és a törvénytelenség ideális háttere.
 - **A tragédia hétköznapisága**: Móricz gyakran a hétköznapi élethelyzetekben mutatja be a tragédiát, ezzel is hangsúlyozva a szegények nehéz sorsát és a társadalmi igazságtalanságokat. Kis János halála egy lakodalmi evés következménye, Bodri juhász pedig egy értéktelen tárgyért veszti életét.
 - **A nyers, realisztikus ábrázolás**: Móricz nem idealizálja a paraszti életet. Novelláiban a nehézségek, a brutalitás és a társadalmi problémák kendőzetlenül jelennek meg.
+
+> Előző: [Mikszáth Kálmán (parasztábrázolás)](./08_mikszath.md)\
+> Következő: [A Biblia](./10_biblia.md)

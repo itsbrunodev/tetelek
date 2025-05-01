@@ -112,3 +112,6 @@
   - **Anika**: Fiatal, naiv, de életvidám lány, aki fogékony a romantikus érzelmekre. Természetes bájával hatást gyakorol a hercegre.
   - **Taláry Pál herceg**: Fiatal, unatkozó nemesúr, aki szórakozásból látogatja a vidéket és incselkedik Anikával. Kicsit gőgös, de vonzónak találja Anika közvetlenségét.
   - **Matyi**: A bojtár, aki szerelmes Anikába és féltékeny a hercegre. A háttérben marad, de érzelmei fontos motivációt jelentenek.
+
+> Előző: [Kölcsey Ferenc (múlt-jelen-jövő)](./07_kolcsey.md)\
+> Következő: [Móricz Zsigmond (novellái)](./09_moricz.md)

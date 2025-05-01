@@ -137,3 +137,6 @@
 - A versek értelmezhetők Babits saját bűnbánataként is (pl. a korábbi közéleti szerepvállalásával kapcsolatban).
 - A Jónás könyve és imája a költő spirituális elmélyülésének, Istenhez való viszonyának megnyilvánulása is egyben.
 - A versek a költői küldetés, a szó hatalma és a hallgatás kényszere közötti feszültséget is érintik.
+
+> Előző: [Ady Endre (szerelmi)](./03_ady.md)\
+> Következő: [Kosztolányi Dezső (Édes Anna)](./05_kosztolanyi.md)

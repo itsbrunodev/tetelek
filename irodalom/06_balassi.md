@@ -80,3 +80,6 @@
 - **Szerkezet**: Ciklikus szerkezet (33+1 vers). A versek tematikusan csoportosíthatók (pl. harci versek, szerelmes versek, bordalok). A Balassi-strófa egységes formai keretet ad a ciklusnak.
 - **Elbeszélő**: A versek többségében az egyes szám első személyű lírai én szólal meg, aki a katona szerepét ölti magára.
 - **Szereplők**: A lírai én (a katona), a távol lévő szeretett nő (név szerint nem jelenik meg, de a vágyakozás tárgya), a bajtársak, az ellenség (török).
+
+> Előző: [Kosztolányi Dezső (Édes Anna)](./05_kosztolanyi.md)\
+> Következő: [Kölcsey Ferenc (múlt-jelen-jövő)](./07_kolcsey.md)

@@ -126,3 +126,6 @@ Jelentősen befolyásolják a cselekményt, aktívan részt vesznek Odüsszeusz 
 | **Helyszín** | Trója és környéke                       | Földközi-tenger, Ithaka                       |
 | **Istenek szerepe** | Kevésbé közvetlen beavatkozás          | Közvetlen, aktív beavatkozás                  |
 | **Szerkezet** | Időrendi                               | Visszatekintések, párhuzamos történetek, 2 szál mint egy Y egyesül        |
+
+> Előző: [A Biblia](./10_biblia.md)\
+> Következő: [A reneszánsz dráma jellegzetességei (Shakespeare: Rómeó és Júlia)](./12_reneszansz_drama.md)

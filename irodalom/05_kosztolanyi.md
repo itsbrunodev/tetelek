@@ -102,3 +102,6 @@
 - **Szerkezet**: A regény elején a helyzet bemutatása történik: a Vizy család és a korabeli Budapest atmoszférájának felvázolása, a konfliktusok (Vizyék házassága, Katica megbízhatatlansága) és az új esemény (Anna érkezése) előkészítése.
 - **Elbeszélő**: Harmadik személyű, mindentudó elbeszélő. Az elbeszélő objektíven mutatja be a szereplőket és a helyzetet, de finom irónia is érzékelhető a leírásokban (pl. Vizy Kornél politikamániája, Vizyné unatkozása).
 - [**Szereplők**](#szereplők): A regényben ők a meghatározó szereplők, akiknek a viszonyrendszere és egyéni jellemzői megalapozzák a további cselekményt, különösen Édes Anna érkezésének a kontextusát.
+
+> Előző: [Babits Mihály (Jónás könyve és imája)](./04_babits.md)\
+> Következő: [Balassi Bálint (költészetének reneszánsz vonásai)](./06_balassi.md)

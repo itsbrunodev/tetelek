@@ -156,3 +156,5 @@ A mű azzal szembesíti az olvasót, hogy a külső siker és a társadalmi poz�
 - A lélektani ábrázolás új dimenzióinak megteremtése.
 - Hatása a későbbi orosz és világirodalomra (pl. a modernizmus egyes irányzataira).
 - A "felesleges ember" toposzának (közismert irodalmi kép) továbbélése a világirodalomban.
+
+> Előző: [Herczeg Ferenc](./14_herczeg.md)

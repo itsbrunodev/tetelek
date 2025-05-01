@@ -77,3 +77,6 @@
 - A regény a korabeli olvasók számára a trianoni tragédia előérzetét kelthette.
 - Bakócz Tamás hiábavaló küzdelme a nemzetért a vesztes háború utáni Magyarország helyzetének allegóriájaként is értelmezhető.
 - A nemzetközi összefogás hiánya és a külső hatalmak közönye a korabeli Magyarország elszigeteltségére utalhat.
+
+> Előző: [Madách Imre: Az ember tragédiája](./13_madach.md)\
+> Következő: [Joker (Az orosz realista irodalom)](./15_joker.md)

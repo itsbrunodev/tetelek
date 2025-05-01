@@ -126,3 +126,6 @@ A Globe Színház intimitása felerősítette a drámai hatást, a nézők közv
 ### A herceg száműzi Rómeót
 
 Ez egy fontos cselekménypont, amely tovább bonyolítja a szerelmesek helyzetét és elvezet a tragikus végkifejlethez. A herceg döntése a társadalmi rend és a személyes érdekek közötti konfliktust is megjeleníti.
+
+> Előző: [Az antik eposz](./11_antik_eposz.md)\
+> Következő: [Madách Imre: Az ember tragédiája](./13_madach.md)

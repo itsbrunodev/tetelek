@@ -82,3 +82,6 @@
   - **A várúr**: Ágnes férje, akit meggyilkol. Passzív szereplő, a bűntény áldozata.
   - **Az öreg anya**: Jelképes figura, a közösségi morált képviseli, elítéli Ágnes tettét.
   - **A szolgálók**: A közösség tagjai, akik megfigyelik Ágnes állapotát.
+
+> Előző: [Petőfi Sándor (szerelmi)](./01_petofi.md)\
+> Következő: [Ady Endre (szerelmi)](./03_ady.md)

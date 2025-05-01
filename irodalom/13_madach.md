@@ -71,3 +71,6 @@
 - [**Szerkezet**](#szerkezet): A keretes szerkezet (bibliai színek – történelmi színek – bibliai szín) egységbe foglalja a művet. Az álomképek laza cselekményvezetésűek, a hangsúly a dialógusokon és a filozofikus eszmecseréken van.
 - **Elbeszélő**: A mű drámai forma, így nincs hagyományos értelemben vett elbeszélő. A szereplők dialógusai és monológjai viszik előre a cselekményt és közvetítik a gondolatokat. Isten a keretszínekben egyfajta külső, mindentudó perspektívát képvisel.
 - [**Szereplők**](#szereplők): A három főszereplő archetipikus (ősi) alakokat képvisel, akiknek vitái a mű filozófiai magját képezik. A történelmi színekben megjelenő mellékszereplők egy-egy korszak vagy emberi típus jellemzőit testesítik meg.
+
+> Előző: [A reneszánsz dráma jellegzetességei (Shakespeare: Rómeó és Júlia)](./12_reneszansz_drama.md)\
+> Következő: [Herczeg Ferenc](./14_herczeg.md)
