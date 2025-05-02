@@ -51,28 +51,32 @@
 
 #### THC
 
-- **Téma**: A nyár elmúlása, az ősz közeledte párhuzamba állítva a szerelem és a házasság mélyülésével, az idő múlásával szembeni állandósággal. A költő elmélkedik a múlandóságon, de felesége melletti boldogsága megnyugvást ad.
-- **Helyszín és Idő**: Egy őszi táj, a természet átalakulásának időszaka. Az idő konkrétan szeptember vége.
-- **Cím**: A cím közvetlenül utal a vers keletkezésének idejére és a természeti képre, amely szimbolikusan kapcsolódik a vers érzelmi tartalmához (elmúlás, de mégis szépség).
+- **Téma**: Képzelj el egy 26 éves költőt, Petőfit, aki egy szeptember végi napon a természet őszi átalakulását szemléli. Ez a látvány elindítja benne a saját elmúlásának gondolatát. A vers arról szól, ahogy a költő párhuzamot von a természetben zajló változások (a nyár elmúlása, az ősz érkezése, a tél közeledte) és az emberi élet vége, az öregség és a halál között. Bizonytalan jövőjét látja maga előtt, és felteszi a kérdést, mi lesz szeretett feleségével, ha ő már nem lesz. Bár aggódik a jövőbeli hűség miatt, a saját szerelmének örökkévalóságában hisz. A vers végső sorai egy megható szerelmi vallomássá válnak a halálon túlra is.
+- **Helyszín és Idő**: A versben konkrét helyszín nincs megjelölve, de a tájleírás (völgy, virágok, havas hegytető) egy őszi, valószínűleg alföldi vagy hegyvidék közeli tájat sugall. Az időpont egyértelműen szeptember vége, az az átmeneti időszak, amikor a nyár emlékei még élénkek, de a tél közelsége már érezhető. Ez az időbeli átmenet kulcsfontosságú a vers hangulatának és témájának megértéséhez.
+- **Cím**: Szeptember végén - egyszerű és közvetlen, mégis tökéletesen megragadja a vers lényegét. A szeptember vége az az időszak, amikor a nyár véget ér, a napok rövidülnek, a természet színei megváltoznak, és a tél közeledtét érezzük. Ez a természeti átmenet szimbolizálja az emberi élet mulandóságát, az ifjúság elmúlását és a halál közeledtét, melyek a vers központi témái. A cím tehát egy konkrét időpontot jelöl meg, ami metaforikusan az élet egy bizonyos szakaszára, a végéhez való közeledésre utal.
   
 #### SZESZ
 
-- **Szerkezet**: Lírai monológ. Két nagyobb egységre osztható: az első rész a táj leírása és a melankolikus hangulat, a második rész a feleséghez szóló személyes vallomás. Rímelése keresztrím (ABAB).
-- **Elbeszélő**: Egyes szám első személyű lírai én, aki közvetlenül fejezi ki érzéseit és gondolatait.
-- **Szereplők**: A lírai én és a megszólított (a feleség). A táj is fontos "szereplőként" van jelen a versben.
+- **Szerkezet**: A vers három egyenként nyolcsoros (*oktáva*) versszakból áll. A rímképlete keresztrím (ABAB CDCD EFEF). Ez a kötött forma klasszikus hangulatot kölcsönöz a versnek. A ritmus, ahogy a forrás is említi, érdekesen kettős: ütemhangsúlyos és időmértékes olvasat is lehetséges. Ütemhangsúlyosan négyütemű 12 és 11 szótagos sorokból áll, keresztrímmel. Ez a ritmikai gazdagság hozzájárul a vers zeneiségéhez és a költő belső zaklatottságának kifejezéséhez. Az első versszakban a természeti kép és a személyes érzés párhuzama dominál, a másodikban a feleséghez intézett kérdések és a mulandóság gondolata kerül előtérbe, a harmadik pedig a jövő látomását és a szerelmi vallomást tartalmazza.
+- **Elbeszélő**: Egyértelműen a lírai én, maga Petőfi szólal meg. Az olvasó az ő szemszögéből látja a tájat, az ő gondolatait és érzéseit ismerheti meg a múlandóságról, a halálról és a szerelemről. Az elbeszélő közvetlen, érzelmes, és személyes hangon szól a feleségéhez és az olvasóhoz.
+- **Szereplők**: 
+  - **A lírai én (Petőfi)**: Ő a vers központi alakja, akinek a gondolatai, érzései és belső vívódásai a verset áthatják. Az ő elmúlás-tudata és a feleségéhez fűződő szeretete áll a középpontban
+  - **A feleség (Szendrey Júlia)**: Bár közvetlenül nem szólal meg, a lírai én hozzá intézi kérdéseit és szerelmi vallomását. Ő a vers egyik motiváló ereje, a jövőbeli aggodalmak és a feltétlen szeretet tárgya. A természet is egyfajta "szereplőként" értelmezhető, hiszen a változásai kiváltják a költő elmélkedéseit.
 
 ### Minek nevezzelek? (1848)
 
 #### THC
 
-- **Téma**: A költő szinte képtelen szavakba önteni felesége iránti mély és sokrétű szerelmét. A vers a megszólítások sokféleségén keresztül mutatja be a kapcsolat intimitását, a feleség különböző szerepeit a költő életében.
-- **Helyszín és Idő**: Nincs konkrét helyszín és idő megjelölve, a hangsúly a belső érzelmeken van. A vers az örök jelenben létezik, a szerelem időtlenségét sugallja.
-- **Cím**: A cím egy költői kérdés, amely a vers központi problémáját veti fel: hogyan lehet egyetlen szóval kifejezni a végtelenül gazdag érzelmeket? A cím felhívja a figyelmet a nyelv korlátaira a szerelem kifejezésében.
+- **Téma**:  Képzelj el egy szerelmest, Petőfit, aki annyira el van ragadtatva a feleségétől, Júliától, hogy szinte képtelen szavakba önteni iránta érzett mély csodálatát és szeretetét. A vers arról szól, ahogy a költő a legkülönbözőbb képekkel és hasonlatokkal próbálja megragadni Júlia szépségét, hatását a lelkére és a vele való egység érzését. Folyamatosan felteszi a kérdést: "Minek nevezzelek?", keresve a tökéletes megszólítást, de valójában a szótlanságig ható érzelmi telítettségét fejezi ki ezzel. A vers a mindennapi meghitt pillanatoktól a csók extázisáig ível, végül pedig a feleségének egyedülálló értékét hangsúlyozza a költő életében.
+- **Helyszín és Idő**: Konkrét fizikai helyszín nem jelenik meg hangsúlyosan, inkább a bensőséges, érzelmi tér dominál a költő és Júlia között. Az első versszakban az "alkonyat" említi meg az időt, ami egy romantikus, meghitt hangulatot teremt. A későbbi szakaszokban az idő inkább a belső, érzelmi időként jelenik meg, különösen a csók leírásánál, ahol a világ és az idő megszűnik létezni a szerelmesek számára. A vers keletkezési ideje, 1848 januárja, a költő fiatal házasságának időszakára esik, ami magyarázza a versekből áradó intenzív érzelmeket.
+- **Cím**: Minek nevezzelek? - egy központi kérdés, amely az egész verset áthatja. A költő látszólag választ keres arra, hogyan is nevezze a szeretett feleségét, de valójában ez a kérdés a kimondhatatlanul mély érzelmek kifejezésére szolgál. A cím felvet egy bizonytalanságot, egy keresést a tökéletes szó után, ami végül nem találatik meg, hiszen Júlia a költő számára több, mint bármilyen név vagy titulus kifejezhetne. A cím így nem egy konkrét választ vár, hanem a költő Júlia iránti végtelen csodálatának és szeretetének a jelzése.
 
 #### SZESZ
 
-- **Szerkezet**: Lírai monológ, amelyben a költő egymást követő kérdések formájában keresi a megfelelő megszólítást feleségének. A vers rövid sorokból és egyszerű nyelvből épül fel, a rímelés változatos (párosrím, keresztrím).
-- **Elbeszélő**: Egyes szám első személyű lírai én, aki közvetlenül a feleségéhez fordul.
-- **Szereplők**: A lírai én és a megszólított (a feleség).
+- **Szerkezet**: A vers öt versszakból áll, mindegyik tíz soros. Az első négy versszak szerkezete hasonló: egy-egy érzéki benyomás (a szem ragyogása, a tekintet érintése, a hangok zengése, a csók érintése) leírásával kezdődik, majd ezt követően a "Minek nevezzelek?" kérdés ismétlődik. Az ötödik, befejező versszak eltér ettől a sémától: itt a költő becézgető megszólítások sorával fejezi ki Júlia iránti érzéseit, majd ismét felteszi a központi kérdést, nyitva hagyva a választ és további elmélkedésre késztetve az olvasót. Ez a szerkezet a költő érzelmi hullámzását és a tökéletes kifejezés keresését tükrözi.
+- **Elbeszélő**: Egyértelműen az első személyű lírai én, maga Petőfi szólal meg. Az olvasó az ő érzésein, gondolatain és Júliáról alkotott képén keresztül ismeri meg a szerelmet. A monologikus forma ellenére a versben érződik egyfajta belső dialógus a költőben, ahogy a "Minek nevezzelek?" kérdésre keresi a választ. Az elbeszélő hangja csodáló, áhítatos és mélyen érzelmes.
+- **Szereplők**: 
+  - **A lírai én (Petőfi)**: Ő a vers beszélője, akinek a belső világa, érzelmei és Júliáról alkotott képe áll a középpontban. Az ő szemszögéből látjuk és érezzük a szerelmet.
+  - **Júlia (a szeretett feleség)**: Bár nem szólal meg közvetlenül, ő a vers ihletője és tárgya. A költő az ő tulajdonságait, megjelenését és a rá gyakorolt hatását írja le részletesen, bár a leírás inkább a költő szubjektív érzésein szűrődik át.
 
 > Következő: [Arany János (balladái)](./02_arany.md)
