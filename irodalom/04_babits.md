@@ -7,10 +7,10 @@
     - [Élete](#élete)
     - [Költői pályájának főbb szakaszai](#költői-pályájának-főbb-szakaszai)
     - [Jónás könyve és imája](#jónás-könyve-és-imája)
-  - [Jónás könyve](#jónás-könyve)
+  - [Jónás könyve (1939)](#jónás-könyve-1939)
     - [THC](#thc)
     - [SZESZ](#szesz)
-  - [Jónás imája](#jónás-imája)
+  - [Jónás imája (1939)](#jónás-imája-1939)
     - [THC](#thc-1)
     - [SZESZ](#szesz-1)
   - [A két vers kapcsolata és értelmezése](#a-két-vers-kapcsolata-és-értelmezése)
@@ -43,79 +43,41 @@
 - A költő saját küzdelmeinek, félelmeinek, Istenhez való viszonyának tükröződése
 - A hallgatásra kényszerült költő (betegsége miatt nem beszélhetett) és a prófétai küldetés megtagadása közötti párhuzam
 
-## Jónás könyve
+## Jónás könyve (1939)
 
 ### THC
 
-- **Téma**: Az isteni hívás elutasítása és a megtérés
-  - Isten felszólítja Jónást, hogy menjen Ninivébe és hirdesse az ítéletet a város bűnei miatt.
-  - Jónás engedetlenkedik, menekülni próbál Isten elől (hajóra száll, Tarsisba akar menni).
-  - Isten büntetése: vihar támad, a tengerészek sorsot vetnek, kiderül, hogy Jónás a bűnös.
-  - Jónást a tengerbe vetik, ahol egy nagy hal elnyeli.
-  - A hal gyomrában töltött idő a bűnbánat és az önvizsgálat ideje.
-  - Isten ismét felszólítja Jónást, aki ezúttal engedelmeskedik és elmegy Ninivébe.
-  - Jónás prédikálása hatására Ninive lakossága megtér, Isten megbocsát a városnak.
-  - Jónás haragszik Isten irgalmassága miatt, zúgolódik.
-  - Isten példázattal (a tökinda elszáradása) tanítja meg Jónást a könyörületességre.
-- **Helyszín és Idő**: Bibliai környezet, Ninive városa; időtlen érvényesség
-  - A történet a bibliai Ószövetségben játszódik, Ninive az asszír birodalom fővárosa volt.
-  - A vers nem csupán egy konkrét történelmi eseményt mesél el, hanem az emberi lét alapvető dilemmáit (engedetlenség, bűnbánat, kegyelem) vetíti elénk.
-  - Az időtlenséget erősíti a lírai én jelenléte, aki a saját tapasztalataival szűri meg a bibliai történetet.
-- **Cím**: Közvetlen utalás a bibliai Jónás történetére, de Babits értelmezésében
-  - A cím jelzi a bibliai alapanyagot, de a hangsúly Babits egyéni interpretációján van.
-  - A "könyve" szó arra utal, hogy ez egy elbeszélő jellegű költemény, egy történet feldolgozása verses formában.
-  - Babits Jónása nem csupán egy engedetlen próféta, hanem egy kishitű, gyarló ember, akiben a költő saját félelmeit, gyengeségeit is megmutatja.
+- **Téma**: Képzelj el egy költőt, Babitsot, aki beteg és aggódik a világban zajló rossz dolgok miatt. Fog egy régi bibliai történetet Jónás prófétáról, aki nem akart engedelmeskedni Istennek, és elmenekült ahelyett, hogy figyelmeztesse a bűnös várost. Babits ezt a történetet újraírja úgy, hogy Jónás nem egy hős próféta, hanem egy gyarló ember, aki fél a feladattól, vitatkozik Istennel, és inkább a saját kényelmét keresi. A mű arról szól, hogy mit jelent felelősséget vállalni, még akkor is, ha nehéz vagy veszélyes, és hogy a művésznek, az értelmiséginek is van dolga a világban, nem menekülhet el a problémák elől. Azt is megmutatja, hogy Isten türelmes és ad egy második esélyt, de az ember hajlamos a hiúságra és a sértettségre, még akkor is, ha a jó győzedelmeskedik.
+- **Helyszín és Idő**: Bibliai időkben játszódik, a Közel-Keleten. Az eredeti történetben Ninive egy nagy, bűnös város. Babits azonban ezt a helyszínt inkább egy szimbólumként használja a modern, problémákkal teli társadalomra. Jónás útja Tarzisba a menekülés helyszíne, a cethal gyomra pedig a belső megtisztulás, a kényszerű elszigeteltség helye. A tökföld pedig a múlandóság és az emberi érzelmek illékonyságának színtere. Az idő Babits korában, a fasizmus erősödésének és a háború fenyegetésének idején is érezhető a műben, hiszen a prófétai szerep és a társadalmi felelősség kérdései különösen aktuálisak voltak.
+- **Cím**: Jónás könyve - egyszerűen utal az eredeti bibliai történetre, de Babits átdolgozása miatt sokkal többet jelent. Nem csupán egy próféta története, hanem egy modern ember vívódásának, gyengeségeinek és a küldetésével való szembenézésének a könyve is. A cím így egyszerre idézi meg a régi történetet és jelzi annak modern, személyes és társadalmi vonatkozásait Babits értelmezésében. A "könyve" szó pedig arra is utal, hogy ez a történet tanulságokat hordoz, üzenetet közvetít az olvasó számára.
 
 ### SZESZ
 
-- **Szerkezet**: Ciklikusság, ismétlődő motívumok (száj, szó, hallgatás)
-  - A vers ciklikusnak tekinthető a hívás – menekülés – megtérés – újabb hívás struktúrája miatt.
-  - Ismétlődő motívumok:
-  - Száj, szó: A prófétai küldetéshez kapcsolódik, a hirdetés eszköze. Jónás először nem akarja kinyitni a száját, majd kényszerből szólal meg.
-  - Hallgatás: Jónás hallgatása Isten hívására engedetlenségét jelzi. A betegség miatti kényszerű hallgatás Babits személyes élménye is.
-  - A versszakok hossza és ritmusa változó, követve a történet érzelmi hullámzását.
-- **Elbeszélő**: Lírai én, aki azonosul Jónással, de általános emberi tapasztalatokat is megfogalmaz
-  - A verset egy lírai én szólaltatja meg, aki szoros kapcsolatban áll Jónás alakjával.
-  - A lírai én nem csupán elmeséli a bibliai történetet, hanem belső monológok, reflexiók formájában Jónás érzéseit, gondolatait is közvetíti.
-  - Az azonosulás ellenére a lírai én távolságot is tart, így a történet általános emberi érvényességgel bír.
+- **Szerkezet**: A mű négy fő részből áll, követve a bibliai történet vonalát, de jelentősen kibővítve és árnyalva azt. Ez a szerkezet lehetővé teszi Babits számára, hogy Jónás elhivatásától a megtérés kísérletén át a végső tanulságig végigkísérje a próféta útját, miközben saját gondolatait és kommentárjait is belefűzi a történetbe. A verses epika műfaja pedig ötvözi az elbeszélő jelleget a költői nyelvvel és formával.
+- **Elbeszélő**: Egy külső, mindentudó elbeszélő, aki ismeri Jónás gondolatait és érzéseit, de gyakran ironikus távolságot tart tőle. Az elbeszélő hangja helyenként humoros, máskor komoly és elgondolkodtató. Babits maga is mintegy kommentátorként van jelen a szövegben, nem csupán elmeséli a történetet, hanem értelmezi is azt a modern olvasó számára.
 - **Szereplők**:
-  - **Jónás**: A központi alak, az engedetlen próféta, aki küzd a küldetésével, gyarló, emberi vonásokkal rendelkezik. Babits az ő vívódásain keresztül a hit, a kötelesség és a szabadság kérdéseit boncolgatja.
-  - **Isten**: A mindentudó, hatalmas, de ugyanakkor irgalmas erő. Nemcsak büntet, hanem lehetőséget ad a megtérésre is. Babits Istene távolinak és közelinek is tűnhet egyszerre.
-  - **Ninive lakossága**: A bűnös város, amely Jónás prédikálására megtér. Az ő példájuk a bűnbánat és a kegyelem lehetőségét illusztrálja.
-  - **Tengerészek**: Mellékszereplők, akik a viharban Jónás bűnét fedezik fel. Az ő reakciójuk a közösség igazságérzetét tükrözi.
-  - **Nagy hal**: Isten eszköze, a megtérés helyszíne (a hal gyomra). Szimbolikus jelentőséggel bír (a belső megtisztulás, a sötétségből a fényre való jutás).
+  - **Jónás**: A központi alak, aki nem a hős próféta mintáját követi, hanem gyarló, menekülő, önző emberként jelenik meg. Ő testesíti meg a modern értelmiség dilemmait a felelősségvállalással kapcsolatban.
+  - **Isten**: Nem a büntető, haragos Isten képe jelenik meg elsősorban, hanem egy türelmes, Jónásnak többször is esélyt adó, végül pedig tanító Isten.
+  - **A niniveiek**: A bűnös város lakói, akik megbánják bűneiket és megtérnek, ezzel is relativizálva Jónás előzetes ítéletét. Ők a társadalom szimbólumai, akik képesek a változásra.
+  - **A hajósok**: Mellékszereplők, akik Jónás menekülésének első állomásán tűnnek fel, és akiknek a reakciói Jónás bűnösségét hangsúlyozzák.
+  - **A cethal**: Az isteni akarat, a sors vagy a kényszerű megváltoztatás szimbóluma, amely Jónást a helyes útra tereli.
+  - **A tök**: A múlandóság, az emberi hiúság és a Jónás sértettségének tárgya, amely fontos tanulsággal szolgál a mű végén.
 
-## Jónás imája
+## Jónás imája (1939)
 
 ### THC
 
-- **Téma**: A megtérés utáni alázat és Isten dicsőítése
-  - A vers Jónás imája a hal gyomrából, a bűnbánat és a remény kifejezése.
-  - Jónás elismeri engedetlenségét, bűneit és Isten igazságosságát.
-  - Hálát ad Istennek a megmenekülésért és ígéretet tesz a küldetés teljesítésére.
-  - Az ima a megalázkodás, a bűnbánat és az Istenbe vetett hit erejét hangsúlyozza.
-- **Helyszín és Idő**: Jónás belső lelkiállapota, a megtérés pillanata után; időtlen érvényesség
-  - A fizikai helyszín a hal gyomra, de a hangsúly Jónás belső lelkiállapotán van.
-  - Az idő a megtérés pillanata utáni, a bűnbánat és a remény közötti átmeneti állapot.
-  - Az ima időtlenségét a személyes bűnbánat és a transzcendenssel való kapcsolat örökérvényűsége adja.
-- **Cím**: A bűnbánat és a hála kifejezése Isten felé
-  - A cím egyértelműen jelzi a műfajt (ima) és a tartalmát (Jónás fohásza).
-  - A "imája" szó intimitást, személyes kapcsolatot sugall Isten és ember között.
-  - A cím a bűnbánat és a remény kettősségét hordozza magában.
+- **Téma**: Képzelj el egy súlyosan beteg költőt, Babitsot, aki úgy érzi, el fog némulni a betegsége miatt. Ez a helyzet emlékezteti őt a bibliai Jónásra, aki megpróbált elmenekülni Isten parancsa elől. A vers arról szól, hogy Babits, Jónáshoz hasonlóan, küzd a küldetésével, a megszólalás kényszerével, még akkor is, amikor a fizikai állapota ezt nehezíti. Imádkozik Istenhez, hogy adjon neki erőt a folytatáshoz, hogy még a gyenge hangján is hirdethesse az igazságot. A vers a betegség, a költői hivatás és az istenhit összekapcsolódásának megrendítő története, ahol a szenvedés nem elveszi a szót, hanem éppen hogy imára és kiáltásra késztet.
+- **Helyszín és Idő**: Nincs konkrét fizikai helyszíne, sokkal inkább egy belső, lelki térben játszódik le a költő imája. Az időpont 1939, Babits súlyos betegségének és a második világháború előestéjének ideje. Ez a történelmi kontextus felerősíti a költő felelősségének érzését a megszólalásra, még akkor is, amikor a személyes sorsa tragikusnak tűnik. A "tenger" és a "hal gyomra" motívumok a bibliai történetből származnak, de itt inkább a szenvedés, a magány és a bezártság metaforáiként jelennek meg a költő belső világában.
+- **Cím**: Jónás imája - közvetlenül utal a bibliai Jónás történetére, de hangsúlyozza az imádság formáját. Ez a cím jelzi, hogy a vers egy személyes megszólítás Istenhez, egy könyörgés és egy vallomás. A cím azt sugallja, hogy a költő, hasonlóan Jónáshoz a hal gyomrában, egy nehéz helyzetben van, és Istenhez fordul segítségért és útmutatásért. Az "imája" szó intimitást és személyes kapcsolatot feltételez a megszólítottal.
 
 ### SZESZ
 
-- **Szerkezet**: Fohászkodó hangvétel, párhuzamos szerkezetek, anaforák
-  - A vers imaszerű formát ölt, megszólításokkal, fohászokkal teli.
-  - Párhuzamos szerkezetek és anaforák (ismétlődő szavak, szókapcsolatok a sorok elején) erősítik a könyörgés ritmusát és a mondanivaló hangsúlyát.
-  - A versszakok rövidebbek, tömörebbek, mint a Jónás könyvé-ben, a belső feszültséget és a koncentráltságot tükrözve.
-- **Elbeszélő**: Az alázatos, megtért Jónás, aki Istent szólítja meg
-  - Az elbeszélő Jónás, de már a megtérés utáni, alázatos énje.
-  - Hangvétele könyörgő, elismeri Isten hatalmát és saját gyengeségét.
-  - Az ima közvetlen megszólítás Istent (pl. "Uram, Istenem"), intimitást teremtve.
+- **Szerkezet**: A vers három nyolcsoros (*oktáva*) versszakból áll, keresztrímes (abab cdcd efgf) szerkezettel. Ez a klasszikus forma stabilitást és emelkedettséget kölcsönöz a versnek, ami illik az imádság hangulatához. A három versszak tematikusan is elkülöníthető: az első a múltat (a költői megszólalás idejét), a második a jelent (a betegség és a némulás fenyegetését), a harmadik pedig a jövőt (a reményt a folytatásra) idézi meg.
+- **Elbeszélő**: Az első személyű lírai én szólal meg, aki egyértelműen azonosítható Babitscsal, de egyben Jónás alakjával is. Az elbeszélő közvetlenül Istenhez fordul imájában, feltárva félelmeit, küzdelmeit és reményeit. A hangja egyszerre alázatos és elszánt, tükrözve a költő belső vívódását és a küldetéstudatát.
 - **Szereplők**:
-  - **Jónás**: A megtért ember, aki bűnbánatot tart és hálát ad Istennek. Az engedetlenségből az alázatba való átalakulás példája.
-  - **Isten**: A megszólított, a kegyelmes erő, aki meghallgatja a bűnbánó imáját.
+  - **A lírai én (Babits/Jónás)**: Ő a vers beszélője, aki a betegség és a némulás fenyegetésével küzd, de érzi a költői megszólalás felelősségét. Jónás alakja párhuzamot teremt a saját helyzetével.
+  - **Isten**: A vers megszólítottja, akihez a lírai én imádkozik. Bár nem szólal meg közvetlenül, a hozzá intézett szavakból kirajzolódik a remény és a kegyelem lehetősége.
 
 ## A két vers kapcsolata és értelmezése
 

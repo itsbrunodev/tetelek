@@ -68,15 +68,17 @@
 
 ##### THC
 
-- **Téma**: Egy őszi, melankolikus hangulatú szerelmi találkozás, amelyben a múlandóság, az elmúlás érzése keveredik a vágy és a szenvedély pillanatnyi intenzitásával. A "nász" szó a beteljesülésre utal, de az "avaron" (lehullott levelek) a kapcsolat ideiglenességét és a halál közelségét is sugallja.
-- **Helyszín és Idő:** Az avarral borított táj (park, erdő) őszi időben. A természet képe szorosan összefonódik a szerelmi aktus hangulatával, a hervadás és a mulandóság érzetével.
-- **Cím**: A "héja" itt is ragadozó madárként értelmezhető, a szenvedély és az ösztönös vonzalom szimbóluma. A "nász az avaron" pedig a vergődő, mulandó kapcsolat képét festi elénk, ahol a beteljesülés pillanata is a végesség tudatával terhelt.
+- **Téma**: Képzelj el egy vad, szenvedélyes szerelmet, ami egyszerre gyönyörű és pusztító, mint két ragadozó madár násztánca egy haldokló őszi tájon. A vers arról szól, ahogy ez a szerelem felemészt mindkét felet. Olyan ez, mint amikor két héja - éles karmú, vad madár - egymásba gabalyodik a nász hevében egy olyan helyen, ahol minden elmúlik. A költő ezt a képet használja arra, hogy megmutassa a szerelem intenzitását, a vágyat, de azt is, hogy ez a szenvedély végül fájdalomhoz és talán a kapcsolat elmúlásához vezet. A természet pusztulása pedig csak felerősíti ezt a tragikus érzést.
+- **Helyszín és Idő:** A versben két fontos helyszín kapcsolódik össze. Az egyik a képzeletbeli tér, ahol a "héja-nász" zajlik, ez a szenvedély és az intimitás tere. A másik pedig az "avar", a lehullott, száraz levelekkel borított őszi táj. Ez a helyszín az elmúlást, a pusztulást, a befejeződést szimbolizálja. Az időpont egyértelműen az ősz, a természet haldoklásának időszaka, ami párhuzamba állítható a szerelem lehetséges tragikus végével.
+- **Cím**: Héja-nász az avaron - rendkívül sokatmondó és kulcsfontosságú a vers megértéséhez. A "héja-nász" két erős képzettársítást von össze: a héja, mint ragadozó, vad, ösztönös lény a szenvedélyt és az intenzitást jelképezi, míg a "nász" az egyesülést, a szerelmet. Az "avaron" szó pedig a haldokló, elmúló természetet idézi fel. A cím tehát előrevetíti, hogy a vers egy olyan szerelmi kapcsolatról fog szólni, amely szenvedélyes és heves, de valahol a pusztulás, a végzet árnyékában zajlik. A cím önmagában hordozza a vers központi ellentétét és tragikus felhangját.
 
 ##### SZESZ
 
-- **Szerkezet**: A vers több, viszonylag rövid versszakból áll, szabályos rímekkel és ritmussal. A szerkezet a pillanatnyi szenvedélyesség és a melankolikus elmúlás váltakozását tükrözheti.
-- **Elbeszélő**: Egyes szám első személyben szólal meg a lírai én, aki résztvevője és megfigyelője az eseménynek. Érzékeny, melankolikus hangvétel jellemzi.
-- **Szereplők**: A lírai én és a névtelen nő. A hangsúly a kettejük közötti fizikai és érzelmi kapcsolaton van, amelyet a környezet (az avar) atmoszférája is befolyásol.
+- **Szerkezet**: A vers négy versszakból áll, mindegyik négy soros (*kvatrain*). A rímelés keresztrím (ABAB). Ez a viszonylag kötött forma kontrasztban áll a versben ábrázolt vad szenvedéllyel, talán a sors vagy a végzet megkerülhetetlenségét sugallva. Az egyes szakaszok egy-egy gondolati vagy képi egységet alkotnak: az első a héja mozgását és a szenvedélyt írja le, a második a "héja-pár" metaforát vezeti be, a harmadik a kapcsolat lehetséges tragikus végkifejletét vetíti előre, a negyedik pedig a természeti környezet pusztulásával von párhuzamot.
+- **Elbeszélő**: A lírai én szólal meg, aki megfigyeli és leírja a "héja-nász" képét, és ezen keresztül közvetíti saját érzelmeit, gondolatait a szerelemről. Az elbeszélő hangja szenvedélyes, érzéki, de ugyanakkor melankolikus és a tragédia lehetőségét sejtető. Az ő belső világa tükröződik a természeti képekben és a metaforákban.
+- **Szereplők**:
+  - **A "héja" (egyes számban az első szakaszban, majd párban)**: A héja a szenvedélyes, ösztönös, vad szerelmet, a vágyat és a kiszolgáltatottságot szimbolizálja. A "héja-pár" pedig a szerelmi kapcsolatban részt vevő két felet jelképezi, akik egyenrangúak, de egymásra is veszélyesek lehetnek.
+  - **Az "avar"**: Az avar a haldokló, pusztuló őszi tájat, az elmúlást, a végzetet szimbolizálja. Ez a környezet rávetíti árnyékát a szerelemre, előrevetítve annak lehetséges tragikus végét.
 
 ### Csinszka (Boncza Berta)
 
