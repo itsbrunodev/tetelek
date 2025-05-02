@@ -23,7 +23,7 @@
 
 ### Életének főbb állomásai
 
-- **885**: Szabadkán született.
+- **1885**: Szabadkán született.
 - **Tanulmányok**: Budapesten magyar-francia szakon végzett.
 - **Újságírói pályafutás**: Budapesti Hírlap, Pesti Hírlap.
 - A Nyugat 2. nemzedékének jelentős alakja.
