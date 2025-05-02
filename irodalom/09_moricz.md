@@ -80,38 +80,44 @@
 
 ### THC
 
-- **Téma**: A szegénység és a társadalmi különbségek tragikus következményeit ábrázolja. Kis János halála nem csupán egyéni tragédia, hanem a szegények elnyomottságának és a gazdagok érzéketlenségének szimbóluma is. Az evészet, ami számára ritka luxus, válik a halála okává.
-- **Helyszín és Idő**: Egy tipikus 20. század eleji magyar falu, hasonló Móricz gyermekkorának helyszínéhez. A lakodalom helyszíne kontrasztot képez Kis János szegényes életével. Az időpont a gazdasági és társadalmi viszonyok miatt jelentős.
-- **Cím**: A "Tragédia" szó itt is ironikus felhangot kap. Egy "jelentéktelen ember" halála egy lakodalmi evés következtében elsőre talán nem tűnik grandiózus tragédiának. Azonban Móricz éppen ezt a banálisnak tűnő eseményt emeli a tragédia szintjére, rávilágítva a szegénységben élők kiszolgáltatottságára és a társadalmi igazságtalanságra.
+- **Téma**: Képzelj el egy nincstelen napszámost, Kis Jánost, akinek egész életét az éhség határozza meg. Móricz ebben a novellában lerombolja a népszínművek idealizált parasztképét, és egy eldurvult lelkű, a vegetatív ösztönök szintjén élő embert mutat be. Kis János groteszk lázadásra szánja el magát: el akarja enni vagyonából a gazdag Sarudyt a lánya lakodalmán. A novella arról szól, hogy ez a kétségbeesett kísérlet kudarcba fullad, és Kis János belehal az erőltetett evésbe. A tragédia nemcsak Kis János személyes sorsa, hanem a nyomorból való kilátástalanság és a társadalmi igazságtalanság jelképe is.
+- **Helyszín és Idő**: A novella a magyar vidéken játszódik, a 20. század elején. A helyszínek - a mező, Kis János otthona, a lakodalmas ház - a paraszti lét szegénységét és egyszerűségét tükrözik. Az idő másfél napot ölel fel, de ebbe beépülnek Kis János múltjának és kilátástalan jövőjének emlékkockái is. A szűk tér és az időbeli korlátok felerősítik a cselekmény drámaiságát.
+- **Cím**: Tragédia - ironikus és sokkoló. A tragédia általában magasztos hősök bukását jelenti, Kis János azonban egy jelentéktelen, eldurvult ember. A cím éppen ezért hangsúlyozza a sors iróniáját és a nyomor kegyetlenségét, amely egy ilyen groteszk és értelmetlen halálhoz vezet. Kis János tragédiája nem egyéni, hanem a kiszolgáltatott társadalmi réteg tragédiája.
 
 ### SZESZ
 
-- **Szerkezet**: Rövid, tömör szerkezetű, a hangsúly a tragikus végkifejletre helyeződik. A lakodalmi mulatság leírása kontrasztot képez Kis János belső világával és a bekövetkező halállal.
-- **Elbeszélő**: Az elbeszélő objektív, mindentudó, aki kívülről szemléli az eseményeket, de érzékelteti a társadalmi különbségeket és Kis János tragédiáját.
+- **Szerkezet**:
+  - **Első rész**: Életképszerű tabló az aratókról és Kis János bemutatása.
+  - **Második rész**: Kis János készülődésének és belső monológjának ábrázolása a "nagy feladatra".
+  - **Harmadik rész**: A lakodalom leírása és Kis János halála. A szerkezet metonimikus (ok-okozati összefüggések), de a végkifejlet felé haladva metaforikussá válik, Kis János és lázadása jelképpé minősül.
+- **Elbeszélő**: Az elbeszélő nézőpontja váltakozik. Többnyire külső, tárgyilagos hangon közöl tényeket, de időnként belső nézőpontba helyezkedik, bemutatva Kis János gondolatait és érzéseit (belső monológ). Az író elhatárolja magát a bemutatott világtól, és szűkszavúan, objektív módon tudósít az eseményekről. Hiányoznak a részletes leírások és a természeti képek, a hangsúly a tényeken és a sejtetett lelki folyamatokon van.
 - **Szereplők**:
-  - **Kis János**: A szegény, büszke napszámos, aki a társadalmi hierarchia alján helyezkedik el. Az evészet számára ritka ünnep, ami végül a halálát okozza.
-  - **Sarudy gazda**: A jómódú, fukar földesúr, aki a gazdagságot és a szegénységet képviseli. Az ő lakodalma adja a tragédia hátterét.
-  - **A lakodalmi vendégek és a falu közössége**: Statiszták a történetben, akik a társadalmi normákat és a különbségeket jelenítik meg.
+  - **Kis János**: A novella főhőse, egy jelentéktelen külsejű, szegény napszámos, akinek életét az éhség uralja. Lázadása ösztönszerű és groteszk, halála pedig tragikus és értelmetlen. Kerek jellem, de a vegetatív ösztönök szintjén él.
+  - **Sarudy**: A gazdag paraszt, akinek vagyonából Kis János megpróbál jóllakni. Inkább csak a cselekmény mozgatórugója, nem kidolgozott jellem.
+  - **A feleség és a fiú**: Mellékszereplők, akik Kis János nyomorúságos sorsának folytatói. A feleség kiszolgáltatott, a fiú perspektíva nélküli.
+  - **A többi paraszt**: A háttérben megjelenő, nyomorban élő magyar paraszti világot képviselik.
 
 ## Barbárok (1932) - novella
 
-- **Tartalom**: Bodri juhászhoz és kisfiához két másik juhász érkezik (köztük a veres juhász). Meg akarják venni Bodri juhász rézveretes szíját, de ő nem adja el. Ezután megölik Bodri juhászt, a fiát és a kutyáikat is. A testeket a kutyákkal együtt elássák, a hanton tüzet raknak és szalonnáznak, majd elhajtják a nyájat. Később Bodri juhász felesége érkezik a pusztába, keresve a férjét.
-
 ### THC
 
-- **Téma**: A novella a nyers erőszakot, az emberi kegyetlenséget és a primitív ösztönöket állítja a középpontba. A veres juhász és társa barbár módon fosztják meg Bodri juhászt és fiát az életüktől egy értéktelen tárgyért. A novella a pusztában uralkodó törvénytelenséget és az emberi gonoszság mélységeit tárja fel.
-- **Helyszín és Idő**: A Hortobágy rideg, elhagyatott pusztája. A távoli, civilizációtól távoli helyszín felerősíti a barbárság és az elszigeteltség érzését. Az időpont nem pontosan meghatározott, de a pásztorok életmódja archaikusnak tűnik.
-- **Cím**: A "Barbárok" cím találóan fejezi ki a két idegen juhász embertelen, brutális viselkedését. A cím egyértelműen elítéli a gyilkosságot és a kifosztást, a civilizációval szembeállítva a pusztában uralkodó vad törvényeket.
+- **Téma**: Képzelj el egy elhagyatott pusztát a 20. század eleji Magyarországon, ahol rideg pásztorok élnek a civilizációtól távol. Móricz ebben a novellában a barbárság mélyére ás le, bemutatva egy olyan világot, ahol a vagyonszerzés ösztöne és a kegyetlenség felülír minden emberi értékrendet. A címadó novella egy brutális gyilkosság történetét meséli el, ahol a szomszéd pásztorok megölik Bodri juhászt, fiát és kutyáját a rézveretes szíjért. A történet nem csupán egy bűntény leírása, hanem egy szociografikus látlelet a társadalom peremén élők elmaradottságáról, babonás hiedelmeikről és a civilizáció hiányának következményeiről. A novella azt a nyugtalanító kérdést veti fel, hogy a 20. században hogyan létezhet egy ilyen embertelen világ a társadalom peremén.
+- **Helyszín és Idő**: A novella tere három részre tagolható: a pusztán játszódó események (néhány óra és egy év távlatában), valamint a bíróságon zajló kihallgatás (szintén néhány óra). A puszta a civilizációtól távoli, kietlen világot jelképezi, ahol az idő szinte megállt. A bíróság a civilizált társadalom színtere, de a barbárság itt is megjelenik a tettes ridegségében és a tragikus események feltárulkozásában. Az időbeli tagolás a bűntény lefolyását, a következményeket és a jogi eljárást követi.
+- **Cím**: Barbárok - rendkívül erős és provokatív. Az ember alatti életformára, a civilizálatlanságra utal. Móricz ezzel a címmel nemcsak a gyilkosságot elkövető pásztorokat bélyegzi meg, hanem az egész elmaradott, megmerevedett pásztoréletet is. A cím feszültséget kelt, előrevetítve egy kegyetlen és embertelen világ képét. Ironikus módon Bodri juhász és családja is barbár körülmények között él, de bennük még nem veszett ki az emberség.
 
 ### SZESZ
 
-- **Szerkezet**: A novella cselekménye egyszerű, lineáris. A találkozástól a gyilkosságon át a nyáj elhajtásáig és a feleség érkezéséig követi az eseményeket. A leírások nyersek, tárgyilagosak, ami fokozza a borzalmat.
-- **Elbeszélő**: Az elbeszélő itt is objektív, távolságot tart az eseményektől, de a tények leírásával is képes megrázó hatást kelteni.
+- **Szerkezet**: A novella három részre tagolódik, amely a térbeli-időbeli hármasságnak felel meg.
+  - **Első rész**: A gyilkosság a pusztán. Balladaszerű, drámai hangvétel, a feszültség fokozatosan nő a gyilkosság tetőpontjáig.
+  - **Második rész**: Az asszony keresése a pusztán. Népmesei elemekkel átszőtt, az emberi hűség és kitartás allegóriája.
+  - **Harmadik rész**: A kihallgatás a bíróságon. Drámai szópárbajok, a tettes beismerése. Balladai homály és kihagyások jellemzik. A szíj motívuma mindhárom részben fordulópontként jelenik meg.
+- **Elbeszélő**: Az elbeszélő személytelen, tárgyilagos és riportszerű. Nem ítélkezik közvetlenül, hanem a puszta tényeket közli, a szociográfiai jellegnek megfelelően. Az ítéletet a vizsgálóbiztos szájába adja a novella végén. Az elbeszélői szólamok között megjelenik az egyenes beszéd, a függő beszéd, és a nyelvhasználat a parasztok hiteles beszédmódját tükrözi (fonetikus írásmód, tájszavak). A ritmus állandóan változik, a körülményesség a gondolat elleplezését szolgálja, a kétértelműség ironikusan hat.
 - **Szereplők**:
-  - **Bodri juhász**: A jószándékú, de védtelen áldozat, aki ragaszkodik tulajdonához.
-  - **Kisfia**: Az ártatlan áldozat, akinek halála különösen tragikus.
-  - **A veres juhász és társa**: A kegyetlen, erőszakos elkövetők, akik a barbárságot képviselik. A rézveretes szíj megszerzése csak ürügy a brutalitásukra.
-  - **Bodri juhász felesége**: A gyászoló, kétségbeesett asszony, aki a novella végén szembesül a tragédiával. Az ő érkezése tovább erősíti a veszteség érzését.
+  - **Bodri juhász**: A meggyilkolt pásztor, aki a barbár körülmények között is megőrzi emberségét.
+  - **Veres juhász és társa**: A kegyetlen rablógyilkosok, akik a vagyonszerzés érdekében embertelen tettre képesek. Ők testesítik meg a novella címében szereplő barbárságot.
+  - **Az asszony (Bodri juhász felesége)**: Népmesei alak, a hűség, szeretet és kitartás szimbóluma, aki lehetetlent nem ismerve keresi szeretteit.
+  - **A puli**: A juhász hűséges társa, aki jelzi a veszélyt és fontos szerepe van a nyomozásban.
+  - **A vizsgálóbiztos**: A civilizált társadalom képviselője, aki a novella végén kimondja az ítéletet.
 
 ### Veres juhász vallatása
 
