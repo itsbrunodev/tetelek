@@ -6,10 +6,10 @@
   - [Élete - rövid áttekintés](#élete---rövid-áttekintés)
   - [Szerelmi élete és költészetének kapcsolata](#szerelmi-élete-és-költészetének-kapcsolata)
   - [Két híres szerelmes vers elemzése](#két-híres-szerelmes-vers-elemzése)
-    - [Szeptember végén](#szeptember-végén)
+    - [Szeptember végén (1847)](#szeptember-végén-1847)
       - [THC](#thc)
       - [Szesz](#szesz)
-    - [Minek nevezzelek](#minek-nevezzelek)
+    - [Minek nevezzelek? (1848)](#minek-nevezzelek-1848)
       - [THC](#thc-1)
       - [SZESZ](#szesz-1)
 
@@ -41,13 +41,13 @@
   - **Elsőként teszi ezt ilyen mélységben és gyakorisággal.**
   - **Példák**:
     - **Szeptember végén**: A múló idő, a természet őszi képe összekapcsolódik a szerelem és a házasság állandóságának, mélységének érzésével.
-    - **Minek nevezzelek**: A költő képtelen egyetlen szóval kifejezni felesége iránti érzéseit, a megszólítások sokfélesége a kapcsolat gazdagságát tükrözi.
+    - **Minek nevezzelek?**: A költő képtelen egyetlen szóval kifejezni felesége iránti érzéseit, a megszólítások sokfélesége a kapcsolat gazdagságát tükrözi.
 - **"Se veled, se nélküled" érzés**: Időnként a kapcsolatukban feszültségek is adódtak, melyek szintén tükröződnek verseiben, de a mély szeretet végül mindig felülkerekedett.
 - **A szabadságharc árnyéka**: A forradalom és a háború Petőfi távollétét, a Júliáért érzett aggodalmat is megjeleníti költészetében.
 
 ## Két híres szerelmes vers elemzése
 
-### Szeptember végén
+### Szeptember végén (1847)
 
 #### THC
 
@@ -61,7 +61,7 @@
 - **Elbeszélő**: Egyes szám első személyű lírai én, aki közvetlenül fejezi ki érzéseit és gondolatait.
 - **Szereplők**: A lírai én és a megszólított (a feleség). A táj is fontos "szereplőként" van jelen a versben.
 
-### Minek nevezzelek
+### Minek nevezzelek? (1848)
 
 #### THC
 
