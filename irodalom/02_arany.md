@@ -8,7 +8,7 @@
   - [Arany János balladái](#arany-jános-balladái-1)
     - [Korszakai](#korszakai)
     - [Jellemzői](#jellemzői)
-  - [Egy ballada elemzése: "Ágnes asszony"](#egy-ballada-elemzése-ágnes-asszony)
+  - [Ágnes asszony (1853)](#ágnes-asszony-1853)
     - [THC](#thc)
     - [SZESZ](#szesz)
 
@@ -61,7 +61,7 @@
 - **Történelmi és mitikus témák**: Valós vagy képzeletbeli múlt eseményei, legendák feldolgozása.
 - **Morális kérdések**: Bűn és bűnhődés, igazság és igazságtalanság, emberi gyarlóság.
 
-## Egy ballada elemzése: "Ágnes asszony"
+## Ágnes asszony (1853)
 
 ### THC
 

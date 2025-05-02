@@ -8,7 +8,7 @@
   - [Két híres szerelmes vers elemzése](#két-híres-szerelmes-vers-elemzése)
     - [Szeptember végén (1847)](#szeptember-végén-1847)
       - [THC](#thc)
-      - [Szesz](#szesz)
+      - [SZESZ](#szesz)
     - [Minek nevezzelek? (1848)](#minek-nevezzelek-1848)
       - [THC](#thc-1)
       - [SZESZ](#szesz-1)
@@ -55,7 +55,7 @@
 - **Helyszín és Idő**: Egy őszi táj, a természet átalakulásának időszaka. Az idő konkrétan szeptember vége.
 - **Cím**: A cím közvetlenül utal a vers keletkezésének idejére és a természeti képre, amely szimbolikusan kapcsolódik a vers érzelmi tartalmához (elmúlás, de mégis szépség).
   
-#### Szesz
+#### SZESZ
 
 - **Szerkezet**: Lírai monológ. Két nagyobb egységre osztható: az első rész a táj leírása és a melankolikus hangulat, a második rész a feleséghez szóló személyes vallomás. Rímelése keresztrím (ABAB).
 - **Elbeszélő**: Egyes szám első személyű lírai én, aki közvetlenül fejezi ki érzéseit és gondolatait.
