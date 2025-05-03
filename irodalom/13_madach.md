@@ -40,16 +40,28 @@
   - Míg sokan a közélettel foglalkoztak, Madách az emberiség történelmével vetette össze a kort.
   - Átfogó képet fest az emberiség sorsáról, fejlődéséről, kudarcairól.
   - **Erős filozófiai töltet**: az emberi lét értelme, a fejlődés iránya, a szabadság és a determinizmus kérdései.
+- **Kétszintes dráma**: Isteni szint, Emberi szint
 
 ## Szerkezet
 
 - 15 szín
-- **Bibliai színek (keret)**:
-  - **1-3. szín**: Teremtés, bűnbeesés (Paradicsom)
-  - **15. szín**: Kicsapás a Paradicsomból, a remény sugara
-- **Történelmi álomképek (középrész)**:
-  - **4-14. szín**: Lucifer vezetésével Ádám álmain keresztül bejárja az emberiség fontosabb történelmi korszakait.
-  - **Ezek a színek Lucifer célját szolgálják**: bebizonyítani, hogy az emberiség örökké önző, boldogtalan és képtelen a tökéletességre.
+1. **Menny**: Isten befejezi a teremtést, mindenki díjazza őt, Lucifer viszont be akarja bizonyitani, hogy az ember tökéletlen
+2. **Paradicsom**: Ádám és Éva esznek a tudás gyümölcséből, Isten száműzi őket
+3. **Paradicsomon kívüli pálmafás vidék**: Lucifer felajánlja nekik, hogy megmutatja a jövőt, beleegyeznek, elalszanak
+4. **Egyiptom (múlt)**: Ádám - a fáraó, Éva - egy rabszolga felesége, Éva felnyitja a szemét, hogy 1 ember boldogságáért nem lehet ezreket rabszolgává tenni
+5. **Athén (múlt)**: Ádám - Miltiádész hadvezér, Éva pedig a feleség, mindenki szabad, ez azzal jár, hogy az emberek nyomorba dőlnek és azt mondják ami hasznot hoz nekik, egyszer hősnek mondják Ádámot, máskor pedig ellenségnek
+6. **Róma (múlt)**: Ádám - Sergiolus (egy előkelő római), Éva - kéjhölgy, semminek nincs értéke, Ádám egy fogadást köt ahol Éva a nyeremény, egyik kéjhölgy viccből megcsókolt egy holttestet és Péter aposol elmondja, hogy a hulla pestises volt
+7. **Konstantinápoly (múlt)**: Ádám - Tankréd lovag, szemtanúja lesz egy kivégzésnek, oka: másik vallásban hisznek, megjelenik Éva aki zárdába vonul, hiába szeretnek egymásba, nem lehetnek együtt
+8. **Prága (múlt)**: Ádám - Kepler, Éva - felesége, aki megcsalja egy fiatalabb férvivel, Ádám horoszkópokat árul, mert ez kell az embereknek, Ádám elalszik és álmot lát
+9. **Párizs (múlt)**: álom az álomban, Ádám - Danton, Éva - egyszer egy nemes hölgy, máskor pedig egy sima nő, legpozitívabb szín, a végén Ádámot lefejezik, mégis itt kerül a legközelebb azokhoz az eszmékhez amikért harcol: szabadság, testvériség, egyenlőség
+10. **Prága 2. (múlt)**: Ádám felébred, Ádám azt tanácsolja tanítványának, hogy égesse el a könyveket és pergameneket, mert nem mintát kell követni, hanem újat létrehozni
+11. **London (jelen)**: Ádám és Lucifer - 2 idős férfi, Tower Bridge tetejéről szemlélik Londont, később Ádám lemegy a vásári forgatagba ahol megtapasztalja, hogy mindent a pénz irányít, Éva és az anyja először nem akarnak szóba állni velük, de amikor gazdagnak adják ki magukat, sokkal kedvesebbek lesznek velük, végén Á. és L. végig nézik ahogy mindenki egy tömegsírba ugrik, kivéve Évát aki felemelkedik
+12. **Falanszter (jövő)**: a Nap kifog hűlni, ezért mindent a tudományoknak rendelnek alá, az állatok mind kipuszultak, kivéve a disznót és a birkát, nincs: művészet, szerelem és virág, Ádám szerint az anyagi világ rossz és el akarja hagyni a Földet
+13. **Űr (jövő)**: Ádám - öreg szellem aki egyre messzebb repül a Földtől, Lucifer azt hiszi nyer (azért mert Ádám elhagyta a Földet és ezzel sikerült bebizonyítania, hogy a teremtés nem tökéletes), ám a Föld szelleme visszahívja Ádámot aki belátja, hogy fizikai dolgok nélkül nincs értelme az életnek
+14. **Jégvilág (jövő)**: tudománynak nem sikerült megmenteniük a világot a Nap kihűlésétől, emberek állati szintre süllyedtek
+15. **Paradicsomon kívüli pálmafás vidék**: Ádám felébred és arra a következtetésre jut, hogy az embernek legalább az akarata szabad, Ádám öngyilkos akar lenni, megjelenik Éva aki bejelenti, hogy terher, ezért Ádám nem lehet öngyilkos, Ádám Istennel beszél és kérdéseket tesz fel neki: Ennyi az élet?, Van fejlődés?, Megéri jónak lenni?, Isten nem ad egyértelmű választ, Lucifernek büntetést ad, az ő tagadása viszi előre a világot, "küzdj és bízva bízzál" - mondta Isten, reményt adva Ádámnak
+- **Keretszínek**: 1., 2., 3., 15.
+- **Álomszínek**: összes többi
 
 ## Szereplők
 
