@@ -5,6 +5,7 @@ Alább megtalálod a kisérettségi tételek listáját, kattints valamelyikre a
 ## Segítségek
 
 - [Korszak idővonal](./korszak.md)
+- [Irodalomi személyek idővonal](https://kzmoeqkn6vfido9qzoe1.lite.vusercontent.net/)
 - [Műnemek műfajai](./munem.md)
 - [THC és SZESZ](./thc_szesz.md)
 

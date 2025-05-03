@@ -17,7 +17,7 @@
 
 ### Életút vázlatosan
 
-- Nemesi származás, Csesztve
+- Nemesi származás, Alsósztregova
 - Jogot végzett
 - Részt vett a szabadságharcban (emiatt bebörtönözték)
 - Magányos élet, birtokán gazdálkodott
@@ -59,7 +59,7 @@
 12. **Falanszter (jövő)**: a Nap kifog hűlni, ezért mindent a tudományoknak rendelnek alá, az állatok mind kipuszultak, kivéve a disznót és a birkát, nincs: művészet, szerelem és virág, Ádám szerint az anyagi világ rossz és el akarja hagyni a Földet
 13. **Űr (jövő)**: Ádám - öreg szellem aki egyre messzebb repül a Földtől, Lucifer azt hiszi nyer (azért mert Ádám elhagyta a Földet és ezzel sikerült bebizonyítania, hogy a teremtés nem tökéletes), ám a Föld szelleme visszahívja Ádámot aki belátja, hogy fizikai dolgok nélkül nincs értelme az életnek
 14. **Jégvilág (jövő)**: tudománynak nem sikerült megmenteniük a világot a Nap kihűlésétől, emberek állati szintre süllyedtek
-15. **Paradicsomon kívüli pálmafás vidék**: Ádám felébred és arra a következtetésre jut, hogy az embernek legalább az akarata szabad, Ádám öngyilkos akar lenni, megjelenik Éva aki bejelenti, hogy terher, ezért Ádám nem lehet öngyilkos, Ádám Istennel beszél és kérdéseket tesz fel neki: Ennyi az élet?, Van fejlődés?, Megéri jónak lenni?, Isten nem ad egyértelmű választ, Lucifernek büntetést ad, az ő tagadása viszi előre a világot, "küzdj és bízva bízzál" - mondta Isten, reményt adva Ádámnak
+15. **Paradicsomon kívüli pálmafás vidék**: Ádám felébred és arra a következtetésre jut, hogy az embernek legalább az akarata szabad, Ádám öngyilkos akar lenni, megjelenik Éva aki bejelenti, hogy terhes, ezért Ádám nem lehet öngyilkos, Ádám Istennel beszél és kérdéseket tesz fel neki: Ennyi az élet?, Van fejlődés?, Megéri jónak lenni?, Isten nem ad egyértelmű választ, Lucifernek büntetést ad, az ő tagadása viszi előre a világot, "küzdj és bízva bízzál" - mondta Isten, reményt adva Ádámnak
 - **Keretszínek**: 1., 2., 3., 15.
 - **Álomszínek**: összes többi
 
