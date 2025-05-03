@@ -11,7 +11,7 @@
     - [Lázadás a hagyományos szerelmi ideálok ellen](#lázadás-a-hagyományos-szerelmi-ideálok-ellen)
   - [Szerelmi kapcsolatai és hatásuk költészetére](#szerelmi-kapcsolatai-és-hatásuk-költészetére)
     - [Léda (Brüll Adél)](#léda-brüll-adél)
-      - [Héja-nász az avaron](#héja-nász-az-avaron)
+      - [Héja-nász az avaron (1905) - elégia](#héja-nász-az-avaron-1905---elégia)
         - [THC](#thc)
         - [SZESZ](#szesz)
     - [Csinszka (Boncza Berta)](#csinszka-boncza-berta)
@@ -64,7 +64,7 @@
 - Léda alakja központi szerepet tölt be Ady korai szerelmi költészetében.
 - A Léda-versek gyakran ábrázolják a női hatalmat, a függőséget, az érzéki vonzalmat és a fájdalmas elválásokat.
 
-#### Héja-nász az avaron
+#### Héja-nász az avaron (1905) - elégia
 
 ##### THC
 
