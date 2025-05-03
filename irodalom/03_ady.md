@@ -15,6 +15,9 @@
         - [THC](#thc)
         - [SZESZ](#szesz)
     - [Csinszka (Boncza Berta)](#csinszka-boncza-berta)
+      - [Őrizem a szemed (1916) - dal](#őrizem-a-szemed-1916---dal)
+        - [THC](#thc-1)
+        - [SZESZ](#szesz-1)
 
 ## Élete - rövid áttekintés
 
@@ -85,6 +88,20 @@
 - Fiatal, nemesi származású lány, aki Ady felesége lett élete utolsó szakaszában.
 - Kapcsolatuk nyugodtabb, támogatóbb jellegű volt, bár nem mentes a nehézségektől.
 - A Csinszka-versek a megnyugvás, a háziasság, a halál közelségének elfogadása mellett a nő iránti mély ragaszkodást fejezik ki.
+
+#### Őrizem a szemed (1916) - dal
+
+##### THC
+
+- **Téma**: Képzelj el egy idősödő férfit, aki szerelméhez fordul a lét bizonytalanságával és a halál közelségével szemben. A vers az öregedő Ady szerelmi vallomása Csinszkához, ahol a szenvedély helyét a megnyugvás, a biztonság és az egymásra találás vigasza veszi át. A háttérben ott kísért a háború traumája és a halál árnya, amelyek a harmónia törékenységét és az egymásba kapaszkodás szükségességét hangsúlyozzák. A vers a szerelemnek az elmúlás elleni védőbástyaként való megjelenítését, valamint az emberi sors kiszámíthatatlanságából fakadó szorongást járja körül.
+- **Helyszín és Idő**: A versnek nincs konkrét fizikai helyszíne, sokkal inkább egy belső, érzelmi térben játszódik. Az "itt" és "most" az egymás közelségét jelenti. Az idő is rétegzett: a jelenben az idősödő szerelem megélése, a múltban a háború emlékei, és a jövőben a fenyegető elmúlás. Az időtlenséget sugallja az "örökké" szó is.
+- **Cím**: Őrizem a szemed - egyszerre sugall gyengédséget, védelmet és odaadást. Az "őrizem" ige a féltő gondoskodást fejezi ki, míg a "szemed" a lélek tükrére, a legbensőbb énre utal. A cím tehát a mély, intim kapcsolatot és a másik iránti felelősségvállalást hangsúlyozza, amely a bizonytalan külső világgal szemben nyújt menedéket.
+
+##### SZESZ
+
+- **Szerkezet**: A vers négy versszakból áll, amelyek tematikusan és érzelmileg is kapcsolódnak egymáshoz. Az első és a harmadik versszak szinte azonos (refrénszerű ismétlődés), ami a biztonság és az egymásra utaltság érzésének hangsúlyozását szolgálja, de a harmadik szakaszban már a második szakasz nyugtalansága is beleivódik. A második versszak a háború borzalmainak és a belső nyugtalanságnak a megjelenítése. A negyedik versszak a szorongó kérdéseké és a jövő bizonytalanságáé. A vers ütemhangsúlyos szerkezete és népdalszerű egyszerűsége a közvetlenséget és a mély érzelmeket erősíti.
+- **Elbeszélő**: A vers lírai énje egyértelműen az idősödő Ady, aki közvetlenül a szerelméhez (Csinszkához) szól. Az elbeszélő érzelmi hullámzásokon megy keresztül: a biztonságérzettől a nyugtalanságon át a szorongásig. A hangnem intím, vallomásos és helyenként fájdalmasan őszinte.
+- **Szereplők**: A versben két főszereplő van: a lírai én (Ady) és a megszólított szerelme (Csinszka). A kapcsolatuk a biztonság, a vigasz és az egymásba kapaszkodás forrása a külső és belső fenyegetésekkel szemben. A háború és a halál nem közvetlenül szerepelnek, de árnyékként végig jelen vannak a versben, befolyásolva a lírai én érzéseit.
 
 > Előző: [Arany János (balladái)](./02_arany.md)\
 > Következő: [Babits Mihály (Jónás könyve és imája)](./04_babits.md)
