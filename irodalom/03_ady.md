@@ -66,6 +66,9 @@
 - Kapcsolatuk viharos, szenvedélyes, tele ellentmondásokkal.
 - Léda alakja központi szerepet tölt be Ady korai szerelmi költészetében.
 - A Léda-versek gyakran ábrázolják a női hatalmat, a függőséget, az érzéki vonzalmat és a fájdalmas elválásokat.
+- Ő volt az aki megmutatta Adynak Párizst
+  - Ady észrevette mennyire le volt maradva a magyar irodalom a nyugatihoz képest
+  - Ady élvezte az itt töltött időt
 
 #### Héja-nász az avaron (1905) - elégia
 
