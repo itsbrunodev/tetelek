@@ -6,10 +6,10 @@
   - [Élete - rövid áttekintés](#élete---rövid-áttekintés)
   - [Szerelmi élete és költészetének kapcsolata](#szerelmi-élete-és-költészetének-kapcsolata)
   - [Két híres szerelmes vers elemzése](#két-híres-szerelmes-vers-elemzése)
-    - [Szeptember végén (1847)](#szeptember-végén-1847)
+    - [Szeptember végén (1847) - elégia](#szeptember-végén-1847---elégia)
       - [THC](#thc)
       - [SZESZ](#szesz)
-    - [Minek nevezzelek? (1848)](#minek-nevezzelek-1848)
+    - [Minek nevezzelek? (1848) - rapszódia](#minek-nevezzelek-1848---rapszódia)
       - [THC](#thc-1)
       - [SZESZ](#szesz-1)
 
@@ -47,7 +47,7 @@
 
 ## Két híres szerelmes vers elemzése
 
-### Szeptember végén (1847)
+### Szeptember végén (1847) - elégia
 
 #### THC
 
@@ -63,7 +63,7 @@
   - **A lírai én (Petőfi)**: Ő a vers központi alakja, akinek a gondolatai, érzései és belső vívódásai a verset áthatják. Az ő elmúlás-tudata és a feleségéhez fűződő szeretete áll a középpontban
   - **A feleség (Szendrey Júlia)**: Bár közvetlenül nem szólal meg, a lírai én hozzá intézi kérdéseit és szerelmi vallomását. Ő a vers egyik motiváló ereje, a jövőbeli aggodalmak és a feltétlen szeretet tárgya. A természet is egyfajta "szereplőként" értelmezhető, hiszen a változásai kiváltják a költő elmélkedéseit.
 
-### Minek nevezzelek? (1848)
+### Minek nevezzelek? (1848) - rapszódia
 
 #### THC
 
